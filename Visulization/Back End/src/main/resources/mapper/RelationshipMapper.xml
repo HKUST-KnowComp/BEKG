@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org/DTD Mapper 3.0" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.knowledge.graph.mapper.RelationshipMapper">
+    <resultMap id="relationshipMap" type="com.knowledge.graph.node.RelationshipNode">
+        <id property="id" column="id"/>
+        <result property="source"  column="source"/>
+        <result property="target"  column="target"/>
+        <result property="type" column="type"/>
+<!--        <association property="startNode" javaType="com.knowledge.graph.node.BIMNode"-->
+<!--                     select="com.knowledge.graph.mapper.BIMMapper.getBIMById"-->
+<!--                     column="startId"/>-->
+<!--        <association property="endNode" javaType="com.knowledge.graph.node.BIMNode"-->
+<!--                     select="com.knowledge.graph.mapper.BIMMapper.getBIMById"-->
+<!--                     column="endId"/>-->
+    </resultMap>
+    <select id="getAllRelationship" resultMap="relationshipMap">
+        match
+            (n)-[r]->()
+        return
+            id(r) as id, id(startNode(r)) as source, id(endNode(r)) as target, type(r) as type
+    </select>
+
+    <select id="getRelationshipByStartId" resultMap="relationshipMap">
+        match
+            (n)-[r]-()
+        <where>
+            id(n) = #{sid}
+        </where>
+        return
+            id(r) as id, id(startNode(r)) as source, id(endNode(r)) as target, type(r) as type
+    </select>
+</mapper>

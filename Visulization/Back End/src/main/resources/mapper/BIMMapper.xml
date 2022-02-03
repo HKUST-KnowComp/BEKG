@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org/DTD Mapper 3.0" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.knowledge.graph.mapper.BIMMapper">
+    <resultMap id="bimMap" type="com.knowledge.graph.node.BIMNode">
+        <id property="id" column="id"/>
+<!--        <result property="name" column="name"/>-->
+        <association property="properties" select="com.knowledge.graph.mapper.BIMMapper.getPropertiesById" column="id" javaType="map"/>
+<!--        <result property="properties" javaType="map"/>-->
+    </resultMap>
+
+    <select id="getAllNode" resultMap="bimMap">
+        match
+            (n)
+        return
+            id(n) as id
+    </select>
+
+    <select id="getPropertiesById" resultType="map">
+        match
+            (n)
+        <where>
+            id(n) = #{id}
+        </where>
+        return
+            properties(n) as properties
+    </select>
+
+    <select id="getBIMById" resultMap="bimMap">
+        match
+            (n)
+        <where>
+            id(n) = #{id}
+        </where>
+        return
+            id(n) as id
+    </select>
+
+    <select id="getNodeByName" resultMap="bimMap">
+        <bind name="_name" value="'.*'+name+'.*'"></bind>
+        match
+            (n)
+        <where>
+            n.name =~#{_name}
+        </where>
+        return
+            id(n) as id
+        limit 10
+    </select>
+
+    <select id="getEndNodes" resultMap="bimMap">
+       match
+            (n) -[r]- ()
+        <where>
+            id(n) = #{sid}
+            And
+            id(startNode(r)) = #{sid}
+        </where>
+        return
+            id(endNode(r)) as id
+    </select>
+    <select id="getStartNodes" resultMap="bimMap">
+        match
+            () -[r]- (n)
+        <where>
+            id(n) = #{eid}
+            And
+            id(EndNode(r)) = #{eid}
+        </where>
+        return
+            id(startNode(r)) as id
+    </select>
+</mapper>
