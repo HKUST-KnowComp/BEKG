@@ -1,0 +1,4000 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "properties": {
+                "properties": {
+                    "name": "any part of the balcony",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 1,
+            "properties": {
+                "properties": {
+                    "name": "the area of the front façade of the building",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 2,
+            "properties": {
+                "properties": {
+                    "name": "clear to the sky",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 3,
+            "properties": {
+                "properties": {
+                    "name": "front wall",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 4,
+            "properties": {
+                "properties": {
+                    "name": "clear to the sky",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 5,
+            "properties": {
+                "properties": {
+                    "name": "habitable room",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 6,
+            "properties": {
+                "properties": {
+                    "name": "pergola",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 7,
+            "properties": {
+                "properties": {
+                    "name": "side street alignment",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 8,
+            "properties": {
+                "properties": {
+                    "name": "simultaneously approved",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 9,
+            "properties": {
+                "properties": {
+                    "name": "A front street setback",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 10,
+            "properties": {
+                "properties": {
+                    "name": "a structure",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 11,
+            "properties": {
+                "properties": {
+                    "name": "a rooftop area",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 12,
+            "properties": {
+                "properties": {
+                    "name": "an unroofed area of land",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 13,
+            "properties": {
+                "properties": {
+                    "name": "balcony",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 14,
+            "properties": {
+                "properties": {
+                    "name": "spa",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 15,
+            "properties": {
+                "properties": {
+                    "name": "a terrace",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 16,
+            "properties": {
+                "properties": {
+                    "name": "the walls of the building facing the front street",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 17,
+            "properties": {
+                "properties": {
+                    "name": "a window within 1·5 m from the edge of the other habitable room window",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 18,
+            "properties": {
+                "properties": {
+                    "name": "a freeway",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 19,
+            "properties": {
+                "properties": {
+                    "name": "the wall most forward of the building",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 20,
+            "properties": {
+                "properties": {
+                    "name": "a window facing a habitable room window",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 21,
+            "properties": {
+                "properties": {
+                    "name": "front street alignment",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 22,
+            "properties": {
+                "properties": {
+                    "name": "a group of two or more attached dwellings",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 23,
+            "properties": {
+                "properties": {
+                    "name": "existing wall",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 24,
+            "properties": {
+                "properties": {
+                    "name": "a fence",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 25,
+            "properties": {
+                "properties": {
+                    "name": "secluded private open space",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 26,
+            "properties": {
+                "properties": {
+                    "name": "site coverage",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 27,
+            "properties": {
+                "properties": {
+                    "name": "Each required habitable room window of a building",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 28,
+            "properties": {
+                "properties": {
+                    "name": "a single dwelling",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 29,
+            "properties": {
+                "properties": {
+                    "name": "a window required",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 30,
+            "properties": {
+                "properties": {
+                    "name": "the vertical distance between natural ground level",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 31,
+            "properties": {
+                "properties": {
+                    "name": "terrace",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 32,
+            "properties": {
+                "properties": {
+                    "name": "pergola",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 33,
+            "properties": {
+                "properties": {
+                    "name": "swimming pool",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 34,
+            "properties": {
+                "properties": {
+                    "name": "a balcony",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 35,
+            "properties": {
+                "properties": {
+                    "name": "the line between a street and an allotment",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 36,
+            "properties": {
+                "properties": {
+                    "name": "the area of the walls of the building facing the front street",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 37,
+            "properties": {
+                "properties": {
+                    "name": "an unroofed area",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 38,
+            "properties": {
+                "properties": {
+                    "name": "the street which the front of the dwelling faces",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 39,
+            "properties": {
+                "properties": {
+                    "name": "a building",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 40,
+            "properties": {
+                "properties": {
+                    "name": "allotment",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 41,
+            "properties": {
+                "properties": {
+                    "name": "declared road",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 42,
+            "properties": {
+                "properties": {
+                    "name": "natural ground level",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 43,
+            "properties": {
+                "properties": {
+                    "name": "existing building",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 44,
+            "properties": {
+                "properties": {
+                    "name": "a wall at any point",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 45,
+            "properties": {
+                "properties": {
+                    "name": "rear-loaded",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 46,
+            "properties": {
+                "properties": {
+                    "name": "storey",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 47,
+            "properties": {
+                "properties": {
+                    "name": "not less than 500mm",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 48,
+            "properties": {
+                "properties": {
+                    "name": "gazebo",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 49,
+            "properties": {
+                "properties": {
+                    "name": "a horizontal distance",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 50,
+            "properties": {
+                "properties": {
+                    "name": "a deck",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 51,
+            "properties": {
+                "properties": {
+                    "name": "forward of the front wall",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 52,
+            "properties": {
+                "properties": {
+                    "name": "land",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 53,
+            "properties": {
+                "properties": {
+                    "name": "an arterial road",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 54,
+            "properties": {
+                "properties": {
+                    "name": "the level of the ground",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 55,
+            "properties": {
+                "properties": {
+                    "name": "any part of a building or wall",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 56,
+            "properties": {
+                "properties": {
+                    "name": "the vertical distance",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 57,
+            "properties": {
+                "properties": {
+                    "name": "a dwelling",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 58,
+            "properties": {
+                "properties": {
+                    "name": "buildings",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 59,
+            "properties": {
+                "properties": {
+                    "name": "part of a building between floor levels",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 60,
+            "properties": {
+                "properties": {
+                    "name": "a non-habitable building",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 61,
+            "properties": {
+                "properties": {
+                    "name": "a balcony area",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 62,
+            "properties": {
+                "properties": {
+                    "name": "the top of the roof covering",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 63,
+            "properties": {
+                "properties": {
+                    "name": "patio",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 64,
+            "properties": {
+                "properties": {
+                    "name": "verandah",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 65,
+            "properties": {
+                "properties": {
+                    "name": "habitable room",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 66,
+            "properties": {
+                "properties": {
+                    "name": "a fence",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 67,
+            "properties": {
+                "properties": {
+                    "name": "bedroom",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 68,
+            "properties": {
+                "properties": {
+                    "name": "fence",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 69,
+            "properties": {
+                "properties": {
+                    "name": "storey",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 70,
+            "properties": {
+                "properties": {
+                    "name": "rear of the building",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 71,
+            "properties": {
+                "properties": {
+                    "name": "lounge room",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 72,
+            "properties": {
+                "properties": {
+                    "name": "kitchen",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 73,
+            "properties": {
+                "properties": {
+                    "name": "family room",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 74,
+            "properties": {
+                "properties": {
+                    "name": "carriageway",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 75,
+            "properties": {
+                "properties": {
+                    "name": "square",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 76,
+            "properties": {
+                "properties": {
+                    "name": "an applied zone",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 77,
+            "properties": {
+                "properties": {
+                    "name": "a row house",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 78,
+            "properties": {
+                "properties": {
+                    "name": "a floor area greater than 6 square metres",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 79,
+            "properties": {
+                "properties": {
+                    "name": "carports",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 80,
+            "properties": {
+                "properties": {
+                    "name": "an area roofed",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 81,
+            "properties": {
+                "properties": {
+                    "name": "a room used for normal domestic activities",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 82,
+            "properties": {
+                "properties": {
+                    "name": "an open structure",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 83,
+            "properties": {
+                "properties": {
+                    "name": "any part of private open space on an allotment",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 84,
+            "properties": {
+                "properties": {
+                    "name": "part of the allotment which is covered by buildings",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 85,
+            "properties": {
+                "properties": {
+                    "name": "a reserve",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 86,
+            "properties": {
+                "properties": {
+                    "name": "carports",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 87,
+            "properties": {
+                "properties": {
+                    "name": "The entrance",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 88,
+            "properties": {
+                "properties": {
+                    "name": "anddecks, steps or landings",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 89,
+            "properties": {
+                "properties": {
+                    "name": "projects",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 90,
+            "properties": {
+                "properties": {
+                    "name": "a width",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 91,
+            "properties": {
+                "properties": {
+                    "name": "project",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 92,
+            "properties": {
+                "properties": {
+                    "name": "projects",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 93,
+            "properties": {
+                "properties": {
+                    "name": "the building",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 94,
+            "properties": {
+                "properties": {
+                    "name": "1 car parking space",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 95,
+            "properties": {
+                "properties": {
+                    "name": "the second space",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 96,
+            "properties": {
+                "properties": {
+                    "name": "carport",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 97,
+            "properties": {
+                "properties": {
+                    "name": "the area of the door",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 98,
+            "properties": {
+                "properties": {
+                    "name": "the setback distance",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 99,
+            "properties": {
+                "properties": {
+                    "name": "building",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 100,
+            "properties": {
+                "properties": {
+                    "name": "any part of a building or wall",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 101,
+            "properties": {
+                "properties": {
+                    "name": "the vertical distance",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 102,
+            "properties": {
+                "properties": {
+                    "name": "other street (not lane)",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 103,
+            "properties": {
+                "properties": {
+                    "name": "part of the allotment",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 104,
+            "properties": {
+                "properties": {
+                    "name": "an outdoor space",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 105,
+            "properties": {
+                "properties": {
+                    "name": "The reference to zone",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 106,
+            "properties": {
+                "properties": {
+                    "name": "fence",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 107,
+            "properties": {
+                "properties": {
+                    "name": "Class 10b",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 108,
+            "properties": {
+                "properties": {
+                    "name": "a horizontal distance",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 109,
+            "properties": {
+                "properties": {
+                    "name": "a dwelling on an allotment",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 110,
+            "properties": {
+                "properties": {
+                    "name": "living room",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 111,
+            "properties": {
+                "properties": {
+                    "name": "television room",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 112,
+            "properties": {
+                "properties": {
+                    "name": "playroom",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 113,
+            "properties": {
+                "properties": {
+                    "name": "highway",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 114,
+            "properties": {
+                "properties": {
+                    "name": "footway",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 115,
+            "properties": {
+                "properties": {
+                    "name": "alley and right of way",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 116,
+            "properties": {
+                "properties": {
+                    "name": "a detached house",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 117,
+            "properties": {
+                "properties": {
+                    "name": "town house",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 118,
+            "properties": {
+                "properties": {
+                    "name": "a window",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 119,
+            "properties": {
+                "properties": {
+                    "name": "sheds",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 120,
+            "properties": {
+                "properties": {
+                    "name": "light court",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 121,
+            "properties": {
+                "properties": {
+                    "name": "street",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 122,
+            "properties": {
+                "properties": {
+                    "name": "villa unit",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 123,
+            "properties": {
+                "properties": {
+                    "name": "Class 10a",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 124,
+            "properties": {
+                "properties": {
+                    "name": "pergola",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 125,
+            "properties": {
+                "properties": {
+                    "name": "fascia and gutters",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 126,
+            "properties": {
+                "properties": {
+                    "name": "bedroom",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 127,
+            "properties": {
+                "properties": {
+                    "name": "music room",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 128,
+            "properties": {
+                "properties": {
+                    "name": "sewing room",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 129,
+            "properties": {
+                "properties": {
+                    "name": "a road",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 130,
+            "properties": {
+                "properties": {
+                    "name": "lane",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 131,
+            "properties": {
+                "properties": {
+                    "name": "court",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 132,
+            "properties": {
+                "properties": {
+                    "name": "the front wall of a dwelling",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 133,
+            "properties": {
+                "properties": {
+                    "name": "terrace house",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 134,
+            "properties": {
+                "properties": {
+                    "name": "a screen",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 135,
+            "properties": {
+                "properties": {
+                    "name": "private garages",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 136,
+            "properties": {
+                "properties": {
+                    "name": "mast",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 137,
+            "properties": {
+                "properties": {
+                    "name": "free-standing wall",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 138,
+            "properties": {
+                "properties": {
+                    "name": "structure similar to a fence",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 139,
+            "properties": {
+                "properties": {
+                    "name": "an attic",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 140,
+            "properties": {
+                "properties": {
+                    "name": "antenna",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 141,
+            "properties": {
+                "properties": {
+                    "name": "swimming pool",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 142,
+            "properties": {
+                "properties": {
+                    "name": "a covering of open weave permeable material",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 143,
+            "properties": {
+                "properties": {
+                    "name": "basement",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 144,
+            "properties": {
+                "properties": {
+                    "name": "unroofed swimming pools",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 145,
+            "properties": {
+                "properties": {
+                    "name": "three or more bedrooms",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 146,
+            "properties": {
+                "properties": {
+                    "name": "landing",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 147,
+            "properties": {
+                "properties": {
+                    "name": "buildings",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 148,
+            "properties": {
+                "properties": {
+                    "name": "The entrance",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 149,
+            "properties": {
+                "properties": {
+                    "name": "a porch, verandah or pergola",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 150,
+            "properties": {
+                "properties": {
+                    "name": "projects",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 151,
+            "properties": {
+                "properties": {
+                    "name": "project",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 152,
+            "properties": {
+                "properties": {
+                    "name": "projects",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 153,
+            "properties": {
+                "properties": {
+                    "name": "projects",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 154,
+            "properties": {
+                "properties": {
+                    "name": "eaves, fascia and gutters",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 155,
+            "properties": {
+                "properties": {
+                    "name": "1 car parking space",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 156,
+            "properties": {
+                "properties": {
+                    "name": "2 car parking spaces",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 157,
+            "properties": {
+                "properties": {
+                    "name": "a garage",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 158,
+            "properties": {
+                "properties": {
+                    "name": "the front street the width of the door",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 159,
+            "properties": {
+                "properties": {
+                    "name": "the setback distance required",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 160,
+            "properties": {
+                "properties": {
+                    "name": "retaining",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 161,
+            "properties": {
+                "properties": {
+                    "name": "a fence",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 162,
+            "properties": {
+                "properties": {
+                    "name": "boundary or building",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 163,
+            "properties": {
+                "properties": {
+                    "name": "built over car parking area",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 164,
+            "properties": {
+                "properties": {
+                    "name": "unroofed terraces",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 165,
+            "properties": {
+                "properties": {
+                    "name": "a minimum dimension",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 166,
+            "properties": {
+                "properties": {
+                    "name": "a patio",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 167,
+            "properties": {
+                "properties": {
+                    "name": "within 200mm of a side",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 168,
+            "properties": {
+                "properties": {
+                    "name": "no less than 2.0 metres from the side street alignment",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 169,
+            "properties": {
+                "properties": {
+                    "name": "least 2 sides",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 170,
+            "properties": {
+                "properties": {
+                    "name": "no more than 1.5 metres forward of the front wall",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 171,
+            "properties": {
+                "properties": {
+                    "name": "at least 300mm",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 172,
+            "properties": {
+                "properties": {
+                    "name": "no more than 1.0 metre",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 173,
+            "properties": {
+                "properties": {
+                    "name": "not exceed 11 metres",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 174,
+            "properties": {
+                "properties": {
+                    "name": "less than 6.0m",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 175,
+            "properties": {
+                "properties": {
+                    "name": "at least 6.0 metres long",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 176,
+            "properties": {
+                "properties": {
+                    "name": "2·6 metres wide",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 177,
+            "properties": {
+                "properties": {
+                    "name": "5·5 metres in width",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 178,
+            "properties": {
+                "properties": {
+                    "name": "the area of the walls of the building facing the front street",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 179,
+            "properties": {
+                "properties": {
+                    "name": "less than 800mm",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 180,
+            "properties": {
+                "properties": {
+                    "name": "mezzanine",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 181,
+            "properties": {
+                "properties": {
+                    "name": "unroofed patios",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 182,
+            "properties": {
+                "properties": {
+                    "name": "The front wall of a new Class 1a Building",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 183,
+            "properties": {
+                "properties": {
+                    "name": "the setback distance",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 184,
+            "properties": {
+                "properties": {
+                    "name": "a width t",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 185,
+            "properties": {
+                "properties": {
+                    "name": "dimension",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 186,
+            "properties": {
+                "properties": {
+                    "name": "projects",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 187,
+            "properties": {
+                "properties": {
+                    "name": "the building height",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 188,
+            "properties": {
+                "properties": {
+                    "name": "a frontage width",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 189,
+            "properties": {
+                "properties": {
+                    "name": "2 car parking spaces",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 190,
+            "properties": {
+                "properties": {
+                    "name": "the second space",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 191,
+            "properties": {
+                "properties": {
+                    "name": "the double space",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 192,
+            "properties": {
+                "properties": {
+                    "name": "the area of the front façade of the building",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 193,
+            "properties": {
+                "properties": {
+                    "name": "decks",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 194,
+            "properties": {
+                "properties": {
+                    "name": "building or carport",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 195,
+            "properties": {
+                "properties": {
+                    "name": "the floor level of the room",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 196,
+            "properties": {
+                "properties": {
+                    "name": "a sill height",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 197,
+            "properties": {
+                "properties": {
+                    "name": "a height",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 198,
+            "properties": {
+                "properties": {
+                    "name": "an allotment has two or less bedrooms",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 199,
+            "properties": {
+                "properties": {
+                    "name": "a roof top area",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 200,
+            "properties": {
+                "properties": {
+                    "name": "The maximum height of a wall",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 201,
+            "properties": {
+                "properties": {
+                    "name": "the sunlight to any secluded private open space",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 202,
+            "properties": {
+                "properties": {
+                    "name": "the floor level of the room",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 203,
+            "properties": {
+                "properties": {
+                    "name": "obscure glazing",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 204,
+            "properties": {
+                "properties": {
+                    "name": "a horizontal distance",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 205,
+            "properties": {
+                "properties": {
+                    "name": "the side or rear of the building",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 206,
+            "properties": {
+                "properties": {
+                    "name": "a roof top area",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 207,
+            "properties": {
+                "properties": {
+                    "name": "Fences setbac",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 208,
+            "properties": {
+                "properties": {
+                    "name": "A fence",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 209,
+            "properties": {
+                "properties": {
+                    "name": "the remaining length of the fence",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 210,
+            "properties": {
+                "properties": {
+                    "name": "an open style car parking structure",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 211,
+            "properties": {
+                "properties": {
+                    "name": "an area roofed",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 212,
+            "properties": {
+                "properties": {
+                    "name": "other street (not lane)",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 213,
+            "properties": {
+                "properties": {
+                    "name": "the setback distance",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 214,
+            "properties": {
+                "properties": {
+                    "name": "a porch",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 215,
+            "properties": {
+                "properties": {
+                    "name": "Fences and solar",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 216,
+            "properties": {
+                "properties": {
+                    "name": "A fence",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 217,
+            "properties": {
+                "properties": {
+                    "name": "the remaining length of the fence",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 218,
+            "properties": {
+                "properties": {
+                    "name": "3m of the street alignment",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 219,
+            "properties": {
+                "properties": {
+                    "name": "A fence",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 220,
+            "properties": {
+                "properties": {
+                    "name": "the sunlight to any secluded private open space",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 221,
+            "properties": {
+                "properties": {
+                    "name": "a horizontal distance",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 222,
+            "properties": {
+                "properties": {
+                    "name": "a window facing a habitable room window",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 223,
+            "properties": {
+                "properties": {
+                    "name": "an allotment has three or more bedrooms",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 224,
+            "properties": {
+                "properties": {
+                    "name": "a balcony or rooftop area",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 225,
+            "properties": {
+                "properties": {
+                    "name": "A front fence",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 226,
+            "properties": {
+                "properties": {
+                    "name": "height",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 227,
+            "properties": {
+                "properties": {
+                    "name": "A fence",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 228,
+            "properties": {
+                "properties": {
+                    "name": "bedroom",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 229,
+            "properties": {
+                "properties": {
+                    "name": "an open style car parking structure",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 230,
+            "properties": {
+                "properties": {
+                    "name": "required habitable room window",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 231,
+            "properties": {
+                "properties": {
+                    "name": "simultaneously approved",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 232,
+            "properties": {
+                "properties": {
+                    "name": "the setback distance",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 233,
+            "properties": {
+                "properties": {
+                    "name": "verandah or pergola",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 234,
+            "properties": {
+                "properties": {
+                    "name": "a fence",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 235,
+            "properties": {
+                "properties": {
+                    "name": "exceed 2.0 metres in height",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 236,
+            "properties": {
+                "properties": {
+                    "name": "A fence on a rear street alignment",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 237,
+            "properties": {
+                "properties": {
+                    "name": "front fence",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 238,
+            "properties": {
+                "properties": {
+                    "name": "the part of the fence",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 239,
+            "properties": {
+                "properties": {
+                    "name": "projects",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 240,
+            "properties": {
+                "properties": {
+                    "name": "A front fence",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 241,
+            "properties": {
+                "properties": {
+                    "name": "a side or rear boundary",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 242,
+            "properties": {
+                "properties": {
+                    "name": "A fence",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 243,
+            "properties": {
+                "properties": {
+                    "name": "carport",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 244,
+            "properties": {
+                "properties": {
+                    "name": "an open style car parking structure",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 245,
+            "properties": {
+                "properties": {
+                    "name": "required habitable room window",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 246,
+            "properties": {
+                "properties": {
+                    "name": "simultaneously approved",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 247,
+            "properties": {
+                "properties": {
+                    "name": "the setback distance",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 248,
+            "properties": {
+                "properties": {
+                    "name": "a height",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 249,
+            "properties": {
+                "properties": {
+                    "name": "A fence",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 250,
+            "properties": {
+                "properties": {
+                    "name": "A fence adjacent",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 251,
+            "properties": {
+                "properties": {
+                    "name": "Fences setback",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 252,
+            "properties": {
+                "properties": {
+                    "name": "rear boundary",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 253,
+            "properties": {
+                "properties": {
+                    "name": "a width",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 254,
+            "properties": {
+                "properties": {
+                    "name": "a width",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 255,
+            "properties": {
+                "properties": {
+                    "name": "projects",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 256,
+            "properties": {
+                "properties": {
+                    "name": "project",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 257,
+            "properties": {
+                "properties": {
+                    "name": "fascia and gutters",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 258,
+            "properties": {
+                "properties": {
+                    "name": "fascia and gutters",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 259,
+            "properties": {
+                "properties": {
+                    "name": "3.5 metres wide",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 260,
+            "properties": {
+                "properties": {
+                    "name": "the part of the fence between 2.0 metres and 2.5 metres",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 261,
+            "properties": {
+                "properties": {
+                    "name": "projects",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 262,
+            "properties": {
+                "properties": {
+                    "name": "projects",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 263,
+            "properties": {
+                "properties": {
+                    "name": "project",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 264,
+            "properties": {
+                "properties": {
+                    "name": "the building",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 265,
+            "properties": {
+                "properties": {
+                    "name": "fascia and gutters",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 266,
+            "properties": {
+                "properties": {
+                    "name": "at least 6.0 metres long",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 267,
+            "properties": {
+                "properties": {
+                    "name": "the second space",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 268,
+            "properties": {
+                "properties": {
+                    "name": "the width of the door(s) or opening(s)",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 269,
+            "properties": {
+                "properties": {
+                    "name": "a minimum dimension",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 270,
+            "properties": {
+                "properties": {
+                    "name": "a minimum dimension",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 271,
+            "properties": {
+                "properties": {
+                    "name": "light court",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 272,
+            "properties": {
+                "properties": {
+                    "name": "the window",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 273,
+            "properties": {
+                "properties": {
+                    "name": "a horizontal distance of 4.5 metres",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 274,
+            "properties": {
+                "properties": {
+                    "name": "the setback distance",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 275,
+            "properties": {
+                "properties": {
+                    "name": "he floor level of the room",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 276,
+            "properties": {
+                "properties": {
+                    "name": "a carport",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 277,
+            "properties": {
+                "properties": {
+                    "name": "less than 6 square metres",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 278,
+            "properties": {
+                "properties": {
+                    "name": "a floor level more than 800mm",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 279,
+            "properties": {
+                "properties": {
+                    "name": "A fence",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 280,
+            "properties": {
+                "properties": {
+                    "name": "projects",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 281,
+            "properties": {
+                "properties": {
+                    "name": "projects",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 282,
+            "properties": {
+                "properties": {
+                    "name": "the building height",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 283,
+            "properties": {
+                "properties": {
+                    "name": "fascia and gutters",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 284,
+            "properties": {
+                "properties": {
+                    "name": "the allotment has a frontage width",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 285,
+            "properties": {
+                "properties": {
+                    "name": "the second space",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 286,
+            "properties": {
+                "properties": {
+                    "name": "5·5 metres in width",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 287,
+            "properties": {
+                "properties": {
+                    "name": "at least 24 square metres of private open space",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 288,
+            "properties": {
+                "properties": {
+                    "name": "a minimum dimension of 3.0 metres",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 289,
+            "properties": {
+                "properties": {
+                    "name": "light court",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 290,
+            "properties": {
+                "properties": {
+                    "name": "a window",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 291,
+            "properties": {
+                "properties": {
+                    "name": "not more than 500mm",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 292,
+            "properties": {
+                "properties": {
+                    "name": "the setback distance",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 293,
+            "properties": {
+                "properties": {
+                    "name": "The maximum height of a wall",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 294,
+            "properties": {
+                "properties": {
+                    "name": "the simultaneously approved building or carport",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 295,
+            "properties": {
+                "properties": {
+                    "name": "a dwelling",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 296,
+            "properties": {
+                "properties": {
+                    "name": "within 1.0 metre of a side",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 297,
+            "properties": {
+                "properties": {
+                    "name": "no less than 5.0 metres from the front street alignment",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 298,
+            "properties": {
+                "properties": {
+                    "name": "less than 800mm in height",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 299,
+            "properties": {
+                "properties": {
+                    "name": "at least 800mm",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 300,
+            "properties": {
+                "properties": {
+                    "name": "car parking space",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 301,
+            "properties": {
+                "properties": {
+                    "name": "the area of the door(s) or opening(s)",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 302,
+            "properties": {
+                "properties": {
+                    "name": "each parcel",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 303,
+            "properties": {
+                "properties": {
+                    "name": "at least 12 square metres",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 304,
+            "properties": {
+                "properties": {
+                    "name": "a sill height",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 305,
+            "properties": {
+                "properties": {
+                    "name": "a height",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 306,
+            "properties": {
+                "properties": {
+                    "name": "the setback distance",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 307,
+            "properties": {
+                "properties": {
+                    "name": "decks",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 308,
+            "properties": {
+                "properties": {
+                    "name": "a carport",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 309,
+            "properties": {
+                "properties": {
+                    "name": "not exceed a total of 2.0 metres",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 310,
+            "properties": {
+                "properties": {
+                    "name": "a dwelling",
+                    "lable": "Entity1"
+                }
+            }
+        },
+        {
+            "id": 311,
+            "properties": {
+                "properties": {
+                    "name": "an area of more than 2 square metres",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 312,
+            "properties": {
+                "properties": {
+                    "name": "no more than 1.5 metres",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 313,
+            "properties": {
+                "properties": {
+                    "name": "no more than 1.5 metres eaves, fascia and gutters",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 314,
+            "properties": {
+                "properties": {
+                    "name": "not exceed 80 percent of the frontage",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 315,
+            "properties": {
+                "properties": {
+                    "name": "does not exceed 80 percent of the frontage",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 316,
+            "properties": {
+                "properties": {
+                    "name": "not more than 1.0 metre forward of the front wall",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 317,
+            "properties": {
+                "properties": {
+                    "name": "at least 800mm",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 318,
+            "properties": {
+                "properties": {
+                    "name": "no more than 3 storeys",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 319,
+            "properties": {
+                "properties": {
+                    "name": "at least 6.0 metres long",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 320,
+            "properties": {
+                "properties": {
+                    "name": "3.1 metres",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 321,
+            "properties": {
+                "properties": {
+                    "name": "at least 300mm",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 322,
+            "properties": {
+                "properties": {
+                    "name": "no more than 1.5 metres",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 323,
+            "properties": {
+                "properties": {
+                    "name": "not exceeding 600mm in total width",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 324,
+            "properties": {
+                "properties": {
+                    "name": "3.5 metres wide",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 325,
+            "properties": {
+                "properties": {
+                    "name": "at least 4·9 metres long",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 326,
+            "properties": {
+                "properties": {
+                    "name": "2.1 metres",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 327,
+            "properties": {
+                "properties": {
+                    "name": "not exceed 50 per cent of the width",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 328,
+            "properties": {
+                "properties": {
+                    "name": "not more than 500mm",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 329,
+            "properties": {
+                "properties": {
+                    "name": "within 0.2 metres of a side",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 330,
+            "properties": {
+                "properties": {
+                    "name": "less than 6 square metres",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 331,
+            "properties": {
+                "properties": {
+                    "name": "an angle less than 45°",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 332,
+            "properties": {
+                "properties": {
+                    "name": "below 1·7 metres",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 333,
+            "properties": {
+                "properties": {
+                    "name": "4.5 metres",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 334,
+            "properties": {
+                "properties": {
+                    "name": "10 percent of the total floor area",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 335,
+            "properties": {
+                "properties": {
+                    "name": "a minimum dimension of 2.0 metres",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 336,
+            "properties": {
+                "properties": {
+                    "name": "more than 150mm",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 337,
+            "properties": {
+                "properties": {
+                    "name": "not exceed 2.0 metres in height",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 338,
+            "properties": {
+                "properties": {
+                    "name": "at least 15 per cent transparent",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 339,
+            "properties": {
+                "properties": {
+                    "name": "open for at least 1/3 of its perimeter",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 340,
+            "properties": {
+                "properties": {
+                    "name": "3·5 metres wide",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 341,
+            "properties": {
+                "properties": {
+                    "name": "car parking",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 342,
+            "properties": {
+                "properties": {
+                    "name": "not exceed 30 percent of the area",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 343,
+            "properties": {
+                "properties": {
+                    "name": "not more than 600mm",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 344,
+            "properties": {
+                "properties": {
+                    "name": "not exceed a total of 2.0 metres",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 345,
+            "properties": {
+                "properties": {
+                    "name": "a minimum dimension of 2.0 metres",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 346,
+            "properties": {
+                "properties": {
+                    "name": "4.5 metres",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 347,
+            "properties": {
+                "properties": {
+                    "name": "a window within 1·5 m from the edge of the other habitable room window",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 348,
+            "properties": {
+                "properties": {
+                    "name": "at least 24 square metres of private open space",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 349,
+            "properties": {
+                "properties": {
+                    "name": "a minimum dimension of 3.0 metres",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 350,
+            "properties": {
+                "properties": {
+                    "name": "3m of the street alignment",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 351,
+            "properties": {
+                "properties": {
+                    "name": "at least 25 per cent transparent",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 352,
+            "properties": {
+                "properties": {
+                    "name": "no more than 65 percent",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 353,
+            "properties": {
+                "properties": {
+                    "name": "enclosed on all sides",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 354,
+            "properties": {
+                "properties": {
+                    "name": "2 or more of its side open",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 355,
+            "properties": {
+                "properties": {
+                    "name": "the minimum amount of light",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 356,
+            "properties": {
+                "properties": {
+                    "name": "have obtained their building permits on the same day",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 357,
+            "properties": {
+                "properties": {
+                    "name": "fascia and gutters",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 358,
+            "properties": {
+                "properties": {
+                    "name": "at least 2 sides",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 359,
+            "properties": {
+                "properties": {
+                    "name": "1.0 metre above footpath level",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 360,
+            "properties": {
+                "properties": {
+                    "name": "does not exceed 3.6 metres",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 361,
+            "properties": {
+                "properties": {
+                    "name": "more than 2.5m above natural ground level",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 362,
+            "properties": {
+                "properties": {
+                    "name": "at least 1.7 metres",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 363,
+            "properties": {
+                "properties": {
+                    "name": "at least 1.7m",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 364,
+            "properties": {
+                "properties": {
+                    "name": "at least 12 square metres of private open space",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 365,
+            "properties": {
+                "properties": {
+                    "name": "at least 6 square metres",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 366,
+            "properties": {
+                "properties": {
+                    "name": "at least 15 percent transparent above 700mm height",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 367,
+            "properties": {
+                "properties": {
+                    "name": "within 150mm",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 368,
+            "properties": {
+                "properties": {
+                    "name": "the front wall of a dwelling",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 369,
+            "properties": {
+                "properties": {
+                    "name": "an open style car parking structure",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 370,
+            "properties": {
+                "properties": {
+                    "name": "a side of a carport",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 371,
+            "properties": {
+                "properties": {
+                    "name": "ventilation to a habitable room",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 372,
+            "properties": {
+                "properties": {
+                    "name": "an application for building permits",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 373,
+            "properties": {
+                "properties": {
+                    "name": "decks, steps or landings less than 800mm in height",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 374,
+            "properties": {
+                "properties": {
+                    "name": "north-facing habitable room windows",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 375,
+            "properties": {
+                "properties": {
+                    "name": "no more than 65 per cent of its length",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 376,
+            "properties": {
+                "properties": {
+                    "name": "within 1.0 metre of a street alignment",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 377,
+            "properties": {
+                "properties": {
+                    "name": "more than 150mm from side",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 378,
+            "properties": {
+                "properties": {
+                    "name": "at least 25 per cent transparent",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 379,
+            "properties": {
+                "properties": {
+                    "name": "at least 800mm",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 380,
+            "properties": {
+                "properties": {
+                    "name": "a material that transmits at least 90 per cent of light",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 381,
+            "properties": {
+                "properties": {
+                    "name": "not the front street",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 382,
+            "properties": {
+                "properties": {
+                    "name": "no more than 1.5 metres",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 383,
+            "properties": {
+                "properties": {
+                    "name": "at least 2 sides",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 384,
+            "properties": {
+                "properties": {
+                    "name": "within 3.0 metres of a point of intersection",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 385,
+            "properties": {
+                "properties": {
+                    "name": "within 1.0 metre of a side street alignment",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 386,
+            "properties": {
+                "properties": {
+                    "name": "at least 15 per cent transparent",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 387,
+            "properties": {
+                "properties": {
+                    "name": "not exceed the maximum height",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 388,
+            "properties": {
+                "properties": {
+                    "name": "more than 150mm from a side",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 389,
+            "properties": {
+                "properties": {
+                    "name": "at least 25 per cent transparent",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 390,
+            "properties": {
+                "properties": {
+                    "name": "no more than 1.5 metres forward of the front wall",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 391,
+            "properties": {
+                "properties": {
+                    "name": "no more than 1.0 metre forward of the front wall",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 392,
+            "properties": {
+                "properties": {
+                    "name": "not more than 1.0 metre forward of the front wall",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 393,
+            "properties": {
+                "properties": {
+                    "name": "not exceeding 600mm in total width",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 394,
+            "properties": {
+                "properties": {
+                    "name": "unroofed patios",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 395,
+            "properties": {
+                "properties": {
+                    "name": "car parking space",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 396,
+            "properties": {
+                "properties": {
+                    "name": "2.1 metres",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 397,
+            "properties": {
+                "properties": {
+                    "name": "not exceed 30 per cent of the area",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 398,
+            "properties": {
+                "properties": {
+                    "name": "at least 12 square metres",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 399,
+            "properties": {
+                "properties": {
+                    "name": "two or less bedrooms",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 400,
+            "properties": {
+                "properties": {
+                    "name": "not exceed 2.0 metres in height",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 401,
+            "properties": {
+                "properties": {
+                    "name": "at least 15 per cent transparent above 700mm height",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 402,
+            "properties": {
+                "properties": {
+                    "name": "not exceed 2.5 metres in height",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 403,
+            "properties": {
+                "properties": {
+                    "name": "not exceed 80 per cent of the frontage",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 404,
+            "properties": {
+                "properties": {
+                    "name": "not exceed 80 per cent of the frontage",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 405,
+            "properties": {
+                "properties": {
+                    "name": "at least 800mm",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 406,
+            "properties": {
+                "properties": {
+                    "name": "at least 300mm",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 407,
+            "properties": {
+                "properties": {
+                    "name": "no more than 3 storeys at any point",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 408,
+            "properties": {
+                "properties": {
+                    "name": "unroofed terraces",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 409,
+            "properties": {
+                "properties": {
+                    "name": "car parking space",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 410,
+            "properties": {
+                "properties": {
+                    "name": "2·6 metres wide",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 411,
+            "properties": {
+                "properties": {
+                    "name": "not exceed 50 per cent of the width",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 412,
+            "properties": {
+                "properties": {
+                    "name": "3.0 metres",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 413,
+            "properties": {
+                "properties": {
+                    "name": "2.0 metres",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 414,
+            "properties": {
+                "properties": {
+                    "name": "a minimum dimension of 1.0 metre",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 415,
+            "properties": {
+                "properties": {
+                    "name": "within 1·5 m from the edge",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 416,
+            "properties": {
+                "properties": {
+                    "name": "the setback distance",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 417,
+            "properties": {
+                "properties": {
+                    "name": "less than 1.0 metre high",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 418,
+            "properties": {
+                "properties": {
+                    "name": "within 0.2 metres of a side or rear boundary",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 419,
+            "properties": {
+                "properties": {
+                    "name": "not exceed 3.6 metres",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 420,
+            "properties": {
+                "properties": {
+                    "name": "at least 300mm",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 421,
+            "properties": {
+                "properties": {
+                    "name": "no more than 1.5 metres forward of the front wall",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 422,
+            "properties": {
+                "properties": {
+                    "name": "not exceed 11 metres",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 423,
+            "properties": {
+                "properties": {
+                    "name": "unroofed swimming pools",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 424,
+            "properties": {
+                "properties": {
+                    "name": "less than 6.0m",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 425,
+            "properties": {
+                "properties": {
+                    "name": "at least 4·9 metres long",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 426,
+            "properties": {
+                "properties": {
+                    "name": "the double space",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 427,
+            "properties": {
+                "properties": {
+                    "name": "a dwelling on an allotment",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 428,
+            "properties": {
+                "properties": {
+                    "name": "parcel",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 429,
+            "properties": {
+                "properties": {
+                    "name": "a minimum area of 3 square metres",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 430,
+            "properties": {
+                "properties": {
+                    "name": "below 1·7 metres above floor level",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 431,
+            "properties": {
+                "properties": {
+                    "name": "dwelling",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 432,
+            "properties": {
+                "properties": {
+                    "name": "not more than 2 square metres",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 433,
+            "properties": {
+                "properties": {
+                    "name": "more than 2.5m above natural ground level",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 434,
+            "properties": {
+                "properties": {
+                    "name": "not exceed 3.6 metres",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 435,
+            "properties": {
+                "properties": {
+                    "name": "an existing building",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 440,
+            "properties": {
+                "properties": {
+                    "name": "at least 1.7 metres above floor level",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 441,
+            "properties": {
+                "properties": {
+                    "name": "least 1.7m above the floor level",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 442,
+            "properties": {
+                "properties": {
+                    "name": "not more than 600mm",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 443,
+            "properties": {
+                "properties": {
+                    "name": "less than 800mm",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 444,
+            "properties": {
+                "properties": {
+                    "name": "within 1.0m of a side or rear boundary",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 445,
+            "properties": {
+                "properties": {
+                    "name": "the existing or simultaneously approved building",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 446,
+            "properties": {
+                "properties": {
+                    "name": "no vehicle access at a street frontage",
+                    "lable": "Entity2"
+                }
+            }
+        },
+        {
+            "id": 460,
+            "properties": {
+                "properties": {
+                    "name": "via a rear laneway",
+                    "lable": "Entity2"
+                }
+            }
+        }
+    ]
+}

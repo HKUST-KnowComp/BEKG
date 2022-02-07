@@ -1,0 +1,22 @@
+{
+  "relationships": [
+    {
+      "id": 0,
+      "source": 17,
+      "target": 222,
+      "type": "attribute_of"
+    },
+    {
+      "id": 1,
+      "source": 17,
+      "target": 20,
+      "type": "attribute_of"
+    },
+    {
+      "id": 2,
+      "source": 17,
+      "target": 20,
+      "type": "is"
+    }
+  ]
+}

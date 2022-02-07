@@ -1,0 +1,6254 @@
+[
+    {
+        "id": 9,
+        "name": "a non-habitable building",
+        "partOf": [],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 10,
+        "name": "a balcony area",
+        "partOf": [],
+        "attributeOf": [],
+        "is": [
+            {
+                "id": 6,
+                "name": "secluded private open space"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "the top of the roof covering",
+        "partOf": [],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 12,
+        "name": "patio",
+        "partOf": [],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 13,
+        "name": "verandah",
+        "partOf": [],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 15,
+        "name": "within 200mm of a side",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 148,
+                "name": "buildings"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 16,
+        "name": "no less than 5.0 metres from the front street alignment",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 161,
+                "name": "The entrance"
+            },
+            {
+                "id": 149,
+                "name": "The entrance"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 17,
+        "name": "less than 800mm in height",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 162,
+                "name": "anddecks, steps or landings"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 18,
+        "name": "at least 800mm",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 234,
+                "name": "projects"
+            },
+            {
+                "id": 165,
+                "name": "projects"
+            },
+            {
+                "id": 153,
+                "name": "projects"
+            },
+            {
+                "id": 252,
+                "name": "projects"
+            },
+            {
+                "id": 151,
+                "name": "projects"
+            },
+            {
+                "id": 253,
+                "name": "projects"
+            },
+            {
+                "id": 232,
+                "name": "projects"
+            },
+            {
+                "id": 163,
+                "name": "projects"
+            },
+            {
+                "id": 263,
+                "name": "projects"
+            },
+            {
+                "id": 233,
+                "name": "projects"
+            },
+            {
+                "id": 166,
+                "name": "projects"
+            },
+            {
+                "id": 184,
+                "name": "projects"
+            },
+            {
+                "id": 184,
+                "name": "projects"
+            },
+            {
+                "id": 165,
+                "name": "projects"
+            },
+            {
+                "id": 263,
+                "name": "projects"
+            },
+            {
+                "id": 234,
+                "name": "projects"
+            },
+            {
+                "id": 166,
+                "name": "projects"
+            },
+            {
+                "id": 252,
+                "name": "projects"
+            },
+            {
+                "id": 232,
+                "name": "projects"
+            },
+            {
+                "id": 163,
+                "name": "projects"
+            },
+            {
+                "id": 233,
+                "name": "projects"
+            },
+            {
+                "id": 153,
+                "name": "projects"
+            },
+            {
+                "id": 151,
+                "name": "projects"
+            },
+            {
+                "id": 253,
+                "name": "projects"
+            },
+            {
+                "id": 234,
+                "name": "projects"
+            },
+            {
+                "id": 151,
+                "name": "projects"
+            },
+            {
+                "id": 252,
+                "name": "projects"
+            },
+            {
+                "id": 263,
+                "name": "projects"
+            },
+            {
+                "id": 166,
+                "name": "projects"
+            },
+            {
+                "id": 163,
+                "name": "projects"
+            },
+            {
+                "id": 232,
+                "name": "projects"
+            },
+            {
+                "id": 253,
+                "name": "projects"
+            },
+            {
+                "id": 153,
+                "name": "projects"
+            },
+            {
+                "id": 184,
+                "name": "projects"
+            },
+            {
+                "id": 233,
+                "name": "projects"
+            },
+            {
+                "id": 165,
+                "name": "projects"
+            },
+            {
+                "id": 233,
+                "name": "projects"
+            },
+            {
+                "id": 232,
+                "name": "projects"
+            },
+            {
+                "id": 263,
+                "name": "projects"
+            },
+            {
+                "id": 153,
+                "name": "projects"
+            },
+            {
+                "id": 252,
+                "name": "projects"
+            },
+            {
+                "id": 234,
+                "name": "projects"
+            },
+            {
+                "id": 166,
+                "name": "projects"
+            },
+            {
+                "id": 184,
+                "name": "projects"
+            },
+            {
+                "id": 151,
+                "name": "projects"
+            },
+            {
+                "id": 253,
+                "name": "projects"
+            },
+            {
+                "id": 163,
+                "name": "projects"
+            },
+            {
+                "id": 165,
+                "name": "projects"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 19,
+        "name": "3.1 metres",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 164,
+                "name": "dimension"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 29,
+        "name": "a single dwelling",
+        "partOf": [],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 30,
+        "name": "a window required",
+        "partOf": [],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 31,
+        "name": "the vertical distance between natural ground level",
+        "partOf": [],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 32,
+        "name": "terrace",
+        "partOf": [],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 33,
+        "name": "pergola",
+        "partOf": [],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 34,
+        "name": "swimming pool",
+        "partOf": [
+            {
+                "id": 102,
+                "name": "Class 10b"
+            }
+        ],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 35,
+        "name": "a balcony",
+        "partOf": [],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 36,
+        "name": "the line between a street and an allotment",
+        "partOf": [],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 37,
+        "name": "the area of the walls of the building facing the front street",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 159,
+                "name": "the area of the front façade of the building"
+            },
+            {
+                "id": 20,
+                "name": "the area of the front façade of the building"
+            }
+        ],
+        "is": [
+            {
+                "id": 20,
+                "name": "the area of the front façade of the building"
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "name": "an unroofed area",
+        "partOf": [],
+        "attributeOf": [],
+        "is": [
+            {
+                "id": 21,
+                "name": "clear to the sky"
+            },
+            {
+                "id": 23,
+                "name": "clear to the sky"
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "name": "the street which the front of the dwelling faces",
+        "partOf": [],
+        "attributeOf": [],
+        "is": [
+            {
+                "id": 2,
+                "name": "front street alignment"
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "name": "not less than 500mm",
+        "partOf": [],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 48,
+        "name": "spa",
+        "partOf": [],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 49,
+        "name": "a terrace",
+        "partOf": [],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 50,
+        "name": "the walls of the building facing the front street",
+        "partOf": [],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 51,
+        "name": "a window within 1·5 m from the edge of the other habitable room window",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 40,
+                "name": "a window facing a habitable room window"
+            },
+            {
+                "id": 204,
+                "name": "a window facing a habitable room window"
+            }
+        ],
+        "is": [
+            {
+                "id": 40,
+                "name": "a window facing a habitable room window"
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "name": "a freeway",
+        "partOf": [],
+        "attributeOf": [],
+        "is": [
+            {
+                "id": 41,
+                "name": "declared road"
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "name": "the wall most forward of the building",
+        "partOf": [],
+        "attributeOf": [],
+        "is": [
+            {
+                "id": 22,
+                "name": "front wall"
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "name": "an area roofed",
+        "partOf": [],
+        "attributeOf": [],
+        "is": [
+            {
+                "id": 23,
+                "name": "clear to the sky"
+            },
+            {
+                "id": 21,
+                "name": "clear to the sky"
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "name": "a room used for normal domestic activities",
+        "partOf": [],
+        "attributeOf": [],
+        "is": [
+            {
+                "id": 24,
+                "name": "habitable room"
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "name": "an open structure",
+        "partOf": [],
+        "attributeOf": [],
+        "is": [
+            {
+                "id": 25,
+                "name": "pergola"
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "name": "other street (not lane)",
+        "partOf": [],
+        "attributeOf": [],
+        "is": [
+            {
+                "id": 26,
+                "name": "side street alignment"
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "name": "part of the allotment",
+        "partOf": [],
+        "attributeOf": [],
+        "is": [
+            {
+                "id": 27,
+                "name": "site coverage"
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "name": "an outdoor space",
+        "partOf": [],
+        "attributeOf": [],
+        "is": [
+            {
+                "id": 28,
+                "name": "Each required habitable room window of a building"
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "name": "a structure",
+        "partOf": [],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 61,
+        "name": "a rooftop area",
+        "partOf": [],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 62,
+        "name": "an unroofed area of land",
+        "partOf": [],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 63,
+        "name": "balcony",
+        "partOf": [],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 64,
+        "name": "gazebo",
+        "partOf": [],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 65,
+        "name": "a horizontal distance",
+        "partOf": [],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 66,
+        "name": "a deck",
+        "partOf": [],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 67,
+        "name": "forward of the front wall",
+        "partOf": [],
+        "attributeOf": [],
+        "is": [
+            {
+                "id": 0,
+                "name": "any part of the balcony"
+            }
+        ]
+    },
+    {
+        "id": 68,
+        "name": "land",
+        "partOf": [],
+        "attributeOf": [],
+        "is": [
+            {
+                "id": 1,
+                "name": "allotment"
+            }
+        ]
+    },
+    {
+        "id": 69,
+        "name": "an arterial road",
+        "partOf": [],
+        "attributeOf": [],
+        "is": [
+            {
+                "id": 41,
+                "name": "declared road"
+            }
+        ]
+    },
+    {
+        "id": 70,
+        "name": "the level of the ground",
+        "partOf": [],
+        "attributeOf": [],
+        "is": [
+            {
+                "id": 42,
+                "name": "natural ground level"
+            }
+        ]
+    },
+    {
+        "id": 71,
+        "name": "any part of a building or wall",
+        "partOf": [],
+        "attributeOf": [],
+        "is": [
+            {
+                "id": 4,
+                "name": "existing wall"
+            },
+            {
+                "id": 43,
+                "name": "existing building"
+            }
+        ]
+    },
+    {
+        "id": 72,
+        "name": "the vertical distance",
+        "partOf": [],
+        "attributeOf": [],
+        "is": [
+            {
+                "id": 5,
+                "name": "a fence"
+            },
+            {
+                "id": 44,
+                "name": "a wall at any point"
+            }
+        ]
+    },
+    {
+        "id": 73,
+        "name": "a dwelling",
+        "partOf": [],
+        "attributeOf": [],
+        "is": [
+            {
+                "id": 45,
+                "name": "rear-loaded"
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "name": "buildings",
+        "partOf": [],
+        "attributeOf": [],
+        "is": [
+            {
+                "id": 7,
+                "name": "simultaneously approved"
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "name": "part of a building between floor levels",
+        "partOf": [],
+        "attributeOf": [],
+        "is": [
+            {
+                "id": 46,
+                "name": "storey"
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "name": "light court",
+        "partOf": [],
+        "attributeOf": [],
+        "is": [
+            {
+                "id": 28,
+                "name": "Each required habitable room window of a building"
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "name": "a building",
+        "partOf": [],
+        "attributeOf": [],
+        "is": [
+            {
+                "id": 3,
+                "name": "a group of two or more attached dwellings"
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "name": "any part of a building or wall",
+        "partOf": [],
+        "attributeOf": [],
+        "is": [
+            {
+                "id": 4,
+                "name": "existing wall"
+            },
+            {
+                "id": 43,
+                "name": "existing building"
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "name": "the vertical distance",
+        "partOf": [],
+        "attributeOf": [],
+        "is": [
+            {
+                "id": 5,
+                "name": "a fence"
+            },
+            {
+                "id": 44,
+                "name": "a wall at any point"
+            }
+        ]
+    },
+    {
+        "id": 83,
+        "name": "any part of private open space on an allotment",
+        "partOf": [],
+        "attributeOf": [],
+        "is": [
+            {
+                "id": 6,
+                "name": "secluded private open space"
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "name": "part of the allotment which is covered by buildings",
+        "partOf": [],
+        "attributeOf": [],
+        "is": [
+            {
+                "id": 27,
+                "name": "site coverage"
+            }
+        ]
+    },
+    {
+        "id": 85,
+        "name": "a reserve",
+        "partOf": [],
+        "attributeOf": [],
+        "is": [
+            {
+                "id": 8,
+                "name": "A front street setback"
+            }
+        ]
+    },
+    {
+        "id": 91,
+        "name": "bedroom",
+        "partOf": [
+            {
+                "id": 24,
+                "name": "habitable room"
+            },
+            {
+                "id": 14,
+                "name": "habitable room"
+            }
+        ],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 92,
+        "name": "music room",
+        "partOf": [
+            {
+                "id": 24,
+                "name": "habitable room"
+            },
+            {
+                "id": 14,
+                "name": "habitable room"
+            }
+        ],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 93,
+        "name": "sewing room",
+        "partOf": [
+            {
+                "id": 24,
+                "name": "habitable room"
+            },
+            {
+                "id": 14,
+                "name": "habitable room"
+            }
+        ],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 94,
+        "name": "a road",
+        "partOf": [
+            {
+                "id": 86,
+                "name": "street"
+            }
+        ],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 95,
+        "name": "lane",
+        "partOf": [
+            {
+                "id": 86,
+                "name": "street"
+            }
+        ],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 96,
+        "name": "court",
+        "partOf": [
+            {
+                "id": 86,
+                "name": "street"
+            }
+        ],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 97,
+        "name": "the front wall of a dwelling",
+        "partOf": [
+            {
+                "id": 77,
+                "name": "a fence"
+            },
+            {
+                "id": 5,
+                "name": "a fence"
+            }
+        ],
+        "attributeOf": [
+            {
+                "id": 209,
+                "name": "A fence"
+            },
+            {
+                "id": 199,
+                "name": "A fence"
+            },
+            {
+                "id": 250,
+                "name": "A fence"
+            },
+            {
+                "id": 221,
+                "name": "A fence"
+            },
+            {
+                "id": 228,
+                "name": "A fence"
+            },
+            {
+                "id": 247,
+                "name": "A fence"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 98,
+        "name": "terrace house",
+        "partOf": [
+            {
+                "id": 87,
+                "name": "villa unit"
+            }
+        ],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 99,
+        "name": "a floor area greater than 6 square metres",
+        "partOf": [
+            {
+                "id": 78,
+                "name": "bedroom"
+            }
+        ],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 105,
+        "name": "living room",
+        "partOf": [
+            {
+                "id": 24,
+                "name": "habitable room"
+            },
+            {
+                "id": 14,
+                "name": "habitable room"
+            }
+        ],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 106,
+        "name": "television room",
+        "partOf": [
+            {
+                "id": 14,
+                "name": "habitable room"
+            },
+            {
+                "id": 24,
+                "name": "habitable room"
+            }
+        ],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 107,
+        "name": "playroom",
+        "partOf": [
+            {
+                "id": 14,
+                "name": "habitable room"
+            },
+            {
+                "id": 24,
+                "name": "habitable room"
+            }
+        ],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 108,
+        "name": "highway",
+        "partOf": [
+            {
+                "id": 86,
+                "name": "street"
+            }
+        ],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 109,
+        "name": "square",
+        "partOf": [
+            {
+                "id": 86,
+                "name": "street"
+            }
+        ],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 110,
+        "name": "an applied zone",
+        "partOf": [
+            {
+                "id": 100,
+                "name": "The reference to zone"
+            }
+        ],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 111,
+        "name": "a row house",
+        "partOf": [
+            {
+                "id": 87,
+                "name": "villa unit"
+            }
+        ],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 112,
+        "name": "a screen",
+        "partOf": [
+            {
+                "id": 79,
+                "name": "fence"
+            },
+            {
+                "id": 101,
+                "name": "fence"
+            }
+        ],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 113,
+        "name": "private garages",
+        "partOf": [
+            {
+                "id": 88,
+                "name": "Class 10a"
+            }
+        ],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 114,
+        "name": "mast",
+        "partOf": [
+            {
+                "id": 102,
+                "name": "Class 10b"
+            }
+        ],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 115,
+        "name": "free-standing wall",
+        "partOf": [
+            {
+                "id": 102,
+                "name": "Class 10b"
+            }
+        ],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 116,
+        "name": "structure similar to a fence",
+        "partOf": [
+            {
+                "id": 79,
+                "name": "fence"
+            },
+            {
+                "id": 101,
+                "name": "fence"
+            }
+        ],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 117,
+        "name": "an attic",
+        "partOf": [
+            {
+                "id": 120,
+                "name": "storey"
+            },
+            {
+                "id": 46,
+                "name": "storey"
+            }
+        ],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 118,
+        "name": "mezzanine",
+        "partOf": [
+            {
+                "id": 46,
+                "name": "storey"
+            },
+            {
+                "id": 120,
+                "name": "storey"
+            }
+        ],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 119,
+        "name": "unroofed patios",
+        "partOf": [
+            {
+                "id": 90,
+                "name": "fascia and gutters"
+            }
+        ],
+        "attributeOf": [
+            {
+                "id": 236,
+                "name": "fascia and gutters"
+            },
+            {
+                "id": 237,
+                "name": "fascia and gutters"
+            },
+            {
+                "id": 90,
+                "name": "fascia and gutters"
+            },
+            {
+                "id": 265,
+                "name": "fascia and gutters"
+            },
+            {
+                "id": 256,
+                "name": "fascia and gutters"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 122,
+        "name": "lounge room",
+        "partOf": [
+            {
+                "id": 24,
+                "name": "habitable room"
+            },
+            {
+                "id": 14,
+                "name": "habitable room"
+            }
+        ],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 123,
+        "name": "kitchen",
+        "partOf": [
+            {
+                "id": 24,
+                "name": "habitable room"
+            },
+            {
+                "id": 14,
+                "name": "habitable room"
+            }
+        ],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 124,
+        "name": "family room",
+        "partOf": [
+            {
+                "id": 24,
+                "name": "habitable room"
+            },
+            {
+                "id": 14,
+                "name": "habitable room"
+            }
+        ],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 125,
+        "name": "carriageway",
+        "partOf": [
+            {
+                "id": 86,
+                "name": "street"
+            }
+        ],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 126,
+        "name": "footway",
+        "partOf": [
+            {
+                "id": 86,
+                "name": "street"
+            }
+        ],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 127,
+        "name": "alley and right of way",
+        "partOf": [
+            {
+                "id": 86,
+                "name": "street"
+            }
+        ],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 128,
+        "name": "a detached house",
+        "partOf": [
+            {
+                "id": 87,
+                "name": "villa unit"
+            }
+        ],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 129,
+        "name": "town house",
+        "partOf": [
+            {
+                "id": 87,
+                "name": "villa unit"
+            }
+        ],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 130,
+        "name": "a window",
+        "partOf": [
+            {
+                "id": 78,
+                "name": "bedroom"
+            }
+        ],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 131,
+        "name": "sheds",
+        "partOf": [
+            {
+                "id": 88,
+                "name": "Class 10a"
+            }
+        ],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 132,
+        "name": "retaining",
+        "partOf": [
+            {
+                "id": 102,
+                "name": "Class 10b"
+            }
+        ],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 133,
+        "name": "a fence",
+        "partOf": [
+            {
+                "id": 102,
+                "name": "Class 10b"
+            }
+        ],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 134,
+        "name": "boundary or building",
+        "partOf": [
+            {
+                "id": 103,
+                "name": "a horizontal distance"
+            }
+        ],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 135,
+        "name": "built over car parking area",
+        "partOf": [
+            {
+                "id": 46,
+                "name": "storey"
+            },
+            {
+                "id": 120,
+                "name": "storey"
+            }
+        ],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 136,
+        "name": "unroofed terraces",
+        "partOf": [
+            {
+                "id": 90,
+                "name": "fascia and gutters"
+            }
+        ],
+        "attributeOf": [
+            {
+                "id": 265,
+                "name": "fascia and gutters"
+            },
+            {
+                "id": 236,
+                "name": "fascia and gutters"
+            },
+            {
+                "id": 256,
+                "name": "fascia and gutters"
+            },
+            {
+                "id": 237,
+                "name": "fascia and gutters"
+            },
+            {
+                "id": 90,
+                "name": "fascia and gutters"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 137,
+        "name": "a minimum dimension",
+        "partOf": [
+            {
+                "id": 121,
+                "name": "rear of the building"
+            }
+        ],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 140,
+        "name": "carports",
+        "partOf": [
+            {
+                "id": 88,
+                "name": "Class 10a"
+            }
+        ],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 141,
+        "name": "antenna",
+        "partOf": [
+            {
+                "id": 102,
+                "name": "Class 10b"
+            }
+        ],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 142,
+        "name": "swimming pool",
+        "partOf": [
+            {
+                "id": 102,
+                "name": "Class 10b"
+            }
+        ],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 143,
+        "name": "a covering of open weave permeable material",
+        "partOf": [
+            {
+                "id": 89,
+                "name": "pergola"
+            },
+            {
+                "id": 25,
+                "name": "pergola"
+            }
+        ],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 144,
+        "name": "basement",
+        "partOf": [
+            {
+                "id": 120,
+                "name": "storey"
+            },
+            {
+                "id": 46,
+                "name": "storey"
+            }
+        ],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 145,
+        "name": "unroofed swimming pools",
+        "partOf": [
+            {
+                "id": 90,
+                "name": "fascia and gutters"
+            }
+        ],
+        "attributeOf": [
+            {
+                "id": 265,
+                "name": "fascia and gutters"
+            },
+            {
+                "id": 256,
+                "name": "fascia and gutters"
+            },
+            {
+                "id": 237,
+                "name": "fascia and gutters"
+            },
+            {
+                "id": 236,
+                "name": "fascia and gutters"
+            },
+            {
+                "id": 90,
+                "name": "fascia and gutters"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 146,
+        "name": "three or more bedrooms",
+        "partOf": [
+            {
+                "id": 104,
+                "name": "a dwelling on an allotment"
+            }
+        ],
+        "attributeOf": [],
+        "is": []
+    },
+    {
+        "id": 278,
+        "name": "within 1.0 metre of a side",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 160,
+                "name": "carports"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 279,
+        "name": "no more than 1.5 metres",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 274,
+                "name": "the setback distance"
+            },
+            {
+                "id": 172,
+                "name": "the setback distance"
+            },
+            {
+                "id": 180,
+                "name": "the setback distance"
+            },
+            {
+                "id": 285,
+                "name": "the setback distance"
+            },
+            {
+                "id": 244,
+                "name": "the setback distance"
+            },
+            {
+                "id": 214,
+                "name": "the setback distance"
+            },
+            {
+                "id": 305,
+                "name": "the setback distance"
+            },
+            {
+                "id": 226,
+                "name": "the setback distance"
+            },
+            {
+                "id": 253,
+                "name": "projects"
+            },
+            {
+                "id": 232,
+                "name": "projects"
+            },
+            {
+                "id": 166,
+                "name": "projects"
+            },
+            {
+                "id": 163,
+                "name": "projects"
+            },
+            {
+                "id": 165,
+                "name": "projects"
+            },
+            {
+                "id": 233,
+                "name": "projects"
+            },
+            {
+                "id": 252,
+                "name": "projects"
+            },
+            {
+                "id": 184,
+                "name": "projects"
+            },
+            {
+                "id": 263,
+                "name": "projects"
+            },
+            {
+                "id": 153,
+                "name": "projects"
+            },
+            {
+                "id": 151,
+                "name": "projects"
+            },
+            {
+                "id": 234,
+                "name": "projects"
+            },
+            {
+                "id": 139,
+                "name": "The front wall of a new Class 1a Building"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 289,
+        "name": "a floor level more than 800mm",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 138,
+                "name": "a patio"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 310,
+        "name": "an area of more than 2 square metres",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 147,
+                "name": "landing"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 311,
+        "name": "no less than 2.0 metres from the side street alignment",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 161,
+                "name": "The entrance"
+            },
+            {
+                "id": 149,
+                "name": "The entrance"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 312,
+        "name": "least 2 sides",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 150,
+                "name": "a porch, verandah or pergola"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 313,
+        "name": "does not exceed 80 percent of the frontage",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 262,
+                "name": "a width"
+            },
+            {
+                "id": 182,
+                "name": "a width"
+            },
+            {
+                "id": 261,
+                "name": "a width"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 314,
+        "name": "not more than 1.0 metre forward of the front wall",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 264,
+                "name": "project"
+            },
+            {
+                "id": 254,
+                "name": "project"
+            },
+            {
+                "id": 152,
+                "name": "project"
+            },
+            {
+                "id": 183,
+                "name": "project"
+            },
+            {
+                "id": 264,
+                "name": "project"
+            },
+            {
+                "id": 183,
+                "name": "project"
+            },
+            {
+                "id": 152,
+                "name": "project"
+            },
+            {
+                "id": 254,
+                "name": "project"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 315,
+        "name": "at least 800mm",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 253,
+                "name": "projects"
+            },
+            {
+                "id": 234,
+                "name": "projects"
+            },
+            {
+                "id": 252,
+                "name": "projects"
+            },
+            {
+                "id": 184,
+                "name": "projects"
+            },
+            {
+                "id": 233,
+                "name": "projects"
+            },
+            {
+                "id": 153,
+                "name": "projects"
+            },
+            {
+                "id": 163,
+                "name": "projects"
+            },
+            {
+                "id": 151,
+                "name": "projects"
+            },
+            {
+                "id": 232,
+                "name": "projects"
+            },
+            {
+                "id": 165,
+                "name": "projects"
+            },
+            {
+                "id": 263,
+                "name": "projects"
+            },
+            {
+                "id": 166,
+                "name": "projects"
+            },
+            {
+                "id": 263,
+                "name": "projects"
+            },
+            {
+                "id": 165,
+                "name": "projects"
+            },
+            {
+                "id": 232,
+                "name": "projects"
+            },
+            {
+                "id": 184,
+                "name": "projects"
+            },
+            {
+                "id": 252,
+                "name": "projects"
+            },
+            {
+                "id": 234,
+                "name": "projects"
+            },
+            {
+                "id": 233,
+                "name": "projects"
+            },
+            {
+                "id": 151,
+                "name": "projects"
+            },
+            {
+                "id": 163,
+                "name": "projects"
+            },
+            {
+                "id": 253,
+                "name": "projects"
+            },
+            {
+                "id": 166,
+                "name": "projects"
+            },
+            {
+                "id": 153,
+                "name": "projects"
+            },
+            {
+                "id": 263,
+                "name": "projects"
+            },
+            {
+                "id": 153,
+                "name": "projects"
+            },
+            {
+                "id": 151,
+                "name": "projects"
+            },
+            {
+                "id": 252,
+                "name": "projects"
+            },
+            {
+                "id": 232,
+                "name": "projects"
+            },
+            {
+                "id": 234,
+                "name": "projects"
+            },
+            {
+                "id": 233,
+                "name": "projects"
+            },
+            {
+                "id": 253,
+                "name": "projects"
+            },
+            {
+                "id": 184,
+                "name": "projects"
+            },
+            {
+                "id": 166,
+                "name": "projects"
+            },
+            {
+                "id": 163,
+                "name": "projects"
+            },
+            {
+                "id": 165,
+                "name": "projects"
+            },
+            {
+                "id": 234,
+                "name": "projects"
+            },
+            {
+                "id": 163,
+                "name": "projects"
+            },
+            {
+                "id": 252,
+                "name": "projects"
+            },
+            {
+                "id": 263,
+                "name": "projects"
+            },
+            {
+                "id": 165,
+                "name": "projects"
+            },
+            {
+                "id": 253,
+                "name": "projects"
+            },
+            {
+                "id": 232,
+                "name": "projects"
+            },
+            {
+                "id": 166,
+                "name": "projects"
+            },
+            {
+                "id": 153,
+                "name": "projects"
+            },
+            {
+                "id": 151,
+                "name": "projects"
+            },
+            {
+                "id": 233,
+                "name": "projects"
+            },
+            {
+                "id": 184,
+                "name": "projects"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 316,
+        "name": "no more than 3 storeys",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 185,
+                "name": "the building"
+            },
+            {
+                "id": 255,
+                "name": "the building"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 317,
+        "name": "at least 6.0 metres long",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 156,
+                "name": "2 car parking spaces"
+            },
+            {
+                "id": 187,
+                "name": "2 car parking spaces"
+            },
+            {
+                "id": 168,
+                "name": "1 car parking space"
+            },
+            {
+                "id": 186,
+                "name": "1 car parking space"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 318,
+        "name": "3·5 metres wide",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 187,
+                "name": "2 car parking spaces"
+            },
+            {
+                "id": 156,
+                "name": "2 car parking spaces"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 319,
+        "name": "2.1 metres",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 239,
+                "name": "car parking space"
+            },
+            {
+                "id": 188,
+                "name": "a garage"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 320,
+        "name": "no more than 1.5 metres eaves, fascia and gutters",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 214,
+                "name": "the setback distance"
+            },
+            {
+                "id": 172,
+                "name": "the setback distance"
+            },
+            {
+                "id": 305,
+                "name": "the setback distance"
+            },
+            {
+                "id": 285,
+                "name": "the setback distance"
+            },
+            {
+                "id": 244,
+                "name": "the setback distance"
+            },
+            {
+                "id": 180,
+                "name": "the setback distance"
+            },
+            {
+                "id": 274,
+                "name": "the setback distance"
+            },
+            {
+                "id": 226,
+                "name": "the setback distance"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 321,
+        "name": "not exceed 80 percent of the frontage",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 181,
+                "name": "a width t"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 322,
+        "name": "no more than 1.5 metres forward of the front wall",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 233,
+                "name": "projects"
+            },
+            {
+                "id": 263,
+                "name": "projects"
+            },
+            {
+                "id": 184,
+                "name": "projects"
+            },
+            {
+                "id": 153,
+                "name": "projects"
+            },
+            {
+                "id": 252,
+                "name": "projects"
+            },
+            {
+                "id": 232,
+                "name": "projects"
+            },
+            {
+                "id": 165,
+                "name": "projects"
+            },
+            {
+                "id": 234,
+                "name": "projects"
+            },
+            {
+                "id": 253,
+                "name": "projects"
+            },
+            {
+                "id": 163,
+                "name": "projects"
+            },
+            {
+                "id": 151,
+                "name": "projects"
+            },
+            {
+                "id": 166,
+                "name": "projects"
+            },
+            {
+                "id": 232,
+                "name": "projects"
+            },
+            {
+                "id": 153,
+                "name": "projects"
+            },
+            {
+                "id": 166,
+                "name": "projects"
+            },
+            {
+                "id": 253,
+                "name": "projects"
+            },
+            {
+                "id": 165,
+                "name": "projects"
+            },
+            {
+                "id": 234,
+                "name": "projects"
+            },
+            {
+                "id": 233,
+                "name": "projects"
+            },
+            {
+                "id": 163,
+                "name": "projects"
+            },
+            {
+                "id": 263,
+                "name": "projects"
+            },
+            {
+                "id": 252,
+                "name": "projects"
+            },
+            {
+                "id": 184,
+                "name": "projects"
+            },
+            {
+                "id": 151,
+                "name": "projects"
+            },
+            {
+                "id": 233,
+                "name": "projects"
+            },
+            {
+                "id": 153,
+                "name": "projects"
+            },
+            {
+                "id": 263,
+                "name": "projects"
+            },
+            {
+                "id": 166,
+                "name": "projects"
+            },
+            {
+                "id": 232,
+                "name": "projects"
+            },
+            {
+                "id": 253,
+                "name": "projects"
+            },
+            {
+                "id": 184,
+                "name": "projects"
+            },
+            {
+                "id": 234,
+                "name": "projects"
+            },
+            {
+                "id": 163,
+                "name": "projects"
+            },
+            {
+                "id": 252,
+                "name": "projects"
+            },
+            {
+                "id": 165,
+                "name": "projects"
+            },
+            {
+                "id": 151,
+                "name": "projects"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 323,
+        "name": "at least 300mm",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 254,
+                "name": "project"
+            },
+            {
+                "id": 152,
+                "name": "project"
+            },
+            {
+                "id": 183,
+                "name": "project"
+            },
+            {
+                "id": 264,
+                "name": "project"
+            },
+            {
+                "id": 252,
+                "name": "projects"
+            },
+            {
+                "id": 166,
+                "name": "projects"
+            },
+            {
+                "id": 163,
+                "name": "projects"
+            },
+            {
+                "id": 234,
+                "name": "projects"
+            },
+            {
+                "id": 232,
+                "name": "projects"
+            },
+            {
+                "id": 263,
+                "name": "projects"
+            },
+            {
+                "id": 151,
+                "name": "projects"
+            },
+            {
+                "id": 153,
+                "name": "projects"
+            },
+            {
+                "id": 165,
+                "name": "projects"
+            },
+            {
+                "id": 184,
+                "name": "projects"
+            },
+            {
+                "id": 253,
+                "name": "projects"
+            },
+            {
+                "id": 233,
+                "name": "projects"
+            },
+            {
+                "id": 153,
+                "name": "projects"
+            },
+            {
+                "id": 184,
+                "name": "projects"
+            },
+            {
+                "id": 166,
+                "name": "projects"
+            },
+            {
+                "id": 263,
+                "name": "projects"
+            },
+            {
+                "id": 163,
+                "name": "projects"
+            },
+            {
+                "id": 151,
+                "name": "projects"
+            },
+            {
+                "id": 234,
+                "name": "projects"
+            },
+            {
+                "id": 232,
+                "name": "projects"
+            },
+            {
+                "id": 165,
+                "name": "projects"
+            },
+            {
+                "id": 253,
+                "name": "projects"
+            },
+            {
+                "id": 233,
+                "name": "projects"
+            },
+            {
+                "id": 252,
+                "name": "projects"
+            },
+            {
+                "id": 264,
+                "name": "project"
+            },
+            {
+                "id": 254,
+                "name": "project"
+            },
+            {
+                "id": 152,
+                "name": "project"
+            },
+            {
+                "id": 183,
+                "name": "project"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 324,
+        "name": "no more than 1.0 metre",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 232,
+                "name": "projects"
+            },
+            {
+                "id": 233,
+                "name": "projects"
+            },
+            {
+                "id": 234,
+                "name": "projects"
+            },
+            {
+                "id": 166,
+                "name": "projects"
+            },
+            {
+                "id": 153,
+                "name": "projects"
+            },
+            {
+                "id": 184,
+                "name": "projects"
+            },
+            {
+                "id": 165,
+                "name": "projects"
+            },
+            {
+                "id": 151,
+                "name": "projects"
+            },
+            {
+                "id": 253,
+                "name": "projects"
+            },
+            {
+                "id": 252,
+                "name": "projects"
+            },
+            {
+                "id": 263,
+                "name": "projects"
+            },
+            {
+                "id": 163,
+                "name": "projects"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 325,
+        "name": "not exceed 11 metres",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 235,
+                "name": "the building height"
+            },
+            {
+                "id": 154,
+                "name": "the building height"
+            },
+            {
+                "id": 235,
+                "name": "the building height"
+            },
+            {
+                "id": 154,
+                "name": "the building height"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 326,
+        "name": "less than 6.0m",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 257,
+                "name": "the allotment has a frontage width"
+            },
+            {
+                "id": 155,
+                "name": "a frontage width"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 327,
+        "name": "at least 6.0 metres long",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 156,
+                "name": "2 car parking spaces"
+            },
+            {
+                "id": 187,
+                "name": "2 car parking spaces"
+            },
+            {
+                "id": 168,
+                "name": "1 car parking space"
+            },
+            {
+                "id": 186,
+                "name": "1 car parking space"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 328,
+        "name": "2·6 metres wide",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 258,
+                "name": "the second space"
+            },
+            {
+                "id": 169,
+                "name": "the second space"
+            },
+            {
+                "id": 157,
+                "name": "the second space"
+            },
+            {
+                "id": 267,
+                "name": "the second space"
+            },
+            {
+                "id": 258,
+                "name": "the second space"
+            },
+            {
+                "id": 169,
+                "name": "the second space"
+            },
+            {
+                "id": 157,
+                "name": "the second space"
+            },
+            {
+                "id": 267,
+                "name": "the second space"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 329,
+        "name": "5·5 metres in width",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 158,
+                "name": "the double space"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 330,
+        "name": "the area of the walls of the building facing the front street",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 159,
+                "name": "the area of the front façade of the building"
+            },
+            {
+                "id": 20,
+                "name": "the area of the front façade of the building"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 331,
+        "name": "less than 800mm",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 306,
+                "name": "decks"
+            },
+            {
+                "id": 200,
+                "name": "decks"
+            },
+            {
+                "id": 306,
+                "name": "decks"
+            },
+            {
+                "id": 200,
+                "name": "decks"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 332,
+        "name": "does not exceed 3.6 metres",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 173,
+                "name": "building or carport"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 333,
+        "name": "more than 2.5m above natural ground level",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 286,
+                "name": "he floor level of the room"
+            },
+            {
+                "id": 193,
+                "name": "the floor level of the room"
+            },
+            {
+                "id": 174,
+                "name": "the floor level of the room"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 334,
+        "name": "at least 1.7 metres",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 283,
+                "name": "a sill height"
+            },
+            {
+                "id": 175,
+                "name": "a sill height"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 335,
+        "name": "at least 1.7m",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 176,
+                "name": "a height"
+            },
+            {
+                "id": 227,
+                "name": "a height"
+            },
+            {
+                "id": 304,
+                "name": "a height"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 336,
+        "name": "at least 12 square metres of private open space",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 177,
+                "name": "an allotment has two or less bedrooms"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 337,
+        "name": "at least 6 square metres",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 178,
+                "name": "a roof top area"
+            },
+            {
+                "id": 197,
+                "name": "a roof top area"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 338,
+        "name": "at least 15 percent transparent above 700mm height",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 207,
+                "name": "A front fence"
+            },
+            {
+                "id": 179,
+                "name": "A front fence"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 339,
+        "name": "within 150mm",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 220,
+                "name": "a side or rear boundary"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 340,
+        "name": "at least 300mm",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 152,
+                "name": "project"
+            },
+            {
+                "id": 183,
+                "name": "project"
+            },
+            {
+                "id": 254,
+                "name": "project"
+            },
+            {
+                "id": 264,
+                "name": "project"
+            },
+            {
+                "id": 163,
+                "name": "projects"
+            },
+            {
+                "id": 253,
+                "name": "projects"
+            },
+            {
+                "id": 166,
+                "name": "projects"
+            },
+            {
+                "id": 151,
+                "name": "projects"
+            },
+            {
+                "id": 233,
+                "name": "projects"
+            },
+            {
+                "id": 234,
+                "name": "projects"
+            },
+            {
+                "id": 184,
+                "name": "projects"
+            },
+            {
+                "id": 153,
+                "name": "projects"
+            },
+            {
+                "id": 165,
+                "name": "projects"
+            },
+            {
+                "id": 263,
+                "name": "projects"
+            },
+            {
+                "id": 232,
+                "name": "projects"
+            },
+            {
+                "id": 252,
+                "name": "projects"
+            },
+            {
+                "id": 253,
+                "name": "projects"
+            },
+            {
+                "id": 153,
+                "name": "projects"
+            },
+            {
+                "id": 184,
+                "name": "projects"
+            },
+            {
+                "id": 234,
+                "name": "projects"
+            },
+            {
+                "id": 233,
+                "name": "projects"
+            },
+            {
+                "id": 163,
+                "name": "projects"
+            },
+            {
+                "id": 252,
+                "name": "projects"
+            },
+            {
+                "id": 232,
+                "name": "projects"
+            },
+            {
+                "id": 151,
+                "name": "projects"
+            },
+            {
+                "id": 165,
+                "name": "projects"
+            },
+            {
+                "id": 263,
+                "name": "projects"
+            },
+            {
+                "id": 166,
+                "name": "projects"
+            },
+            {
+                "id": 183,
+                "name": "project"
+            },
+            {
+                "id": 254,
+                "name": "project"
+            },
+            {
+                "id": 264,
+                "name": "project"
+            },
+            {
+                "id": 152,
+                "name": "project"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 341,
+        "name": "no more than 1.5 metres",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 244,
+                "name": "the setback distance"
+            },
+            {
+                "id": 214,
+                "name": "the setback distance"
+            },
+            {
+                "id": 305,
+                "name": "the setback distance"
+            },
+            {
+                "id": 274,
+                "name": "the setback distance"
+            },
+            {
+                "id": 226,
+                "name": "the setback distance"
+            },
+            {
+                "id": 180,
+                "name": "the setback distance"
+            },
+            {
+                "id": 172,
+                "name": "the setback distance"
+            },
+            {
+                "id": 285,
+                "name": "the setback distance"
+            },
+            {
+                "id": 151,
+                "name": "projects"
+            },
+            {
+                "id": 263,
+                "name": "projects"
+            },
+            {
+                "id": 165,
+                "name": "projects"
+            },
+            {
+                "id": 252,
+                "name": "projects"
+            },
+            {
+                "id": 153,
+                "name": "projects"
+            },
+            {
+                "id": 233,
+                "name": "projects"
+            },
+            {
+                "id": 184,
+                "name": "projects"
+            },
+            {
+                "id": 166,
+                "name": "projects"
+            },
+            {
+                "id": 232,
+                "name": "projects"
+            },
+            {
+                "id": 163,
+                "name": "projects"
+            },
+            {
+                "id": 253,
+                "name": "projects"
+            },
+            {
+                "id": 234,
+                "name": "projects"
+            },
+            {
+                "id": 139,
+                "name": "The front wall of a new Class 1a Building"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 342,
+        "name": "not exceeding 600mm in total width",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 237,
+                "name": "fascia and gutters"
+            },
+            {
+                "id": 236,
+                "name": "fascia and gutters"
+            },
+            {
+                "id": 90,
+                "name": "fascia and gutters"
+            },
+            {
+                "id": 256,
+                "name": "fascia and gutters"
+            },
+            {
+                "id": 265,
+                "name": "fascia and gutters"
+            },
+            {
+                "id": 167,
+                "name": "eaves, fascia and gutters"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 343,
+        "name": "3.5 metres wide",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 186,
+                "name": "1 car parking space"
+            },
+            {
+                "id": 168,
+                "name": "1 car parking space"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 344,
+        "name": "at least 4·9 metres long",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 267,
+                "name": "the second space"
+            },
+            {
+                "id": 157,
+                "name": "the second space"
+            },
+            {
+                "id": 169,
+                "name": "the second space"
+            },
+            {
+                "id": 258,
+                "name": "the second space"
+            },
+            {
+                "id": 258,
+                "name": "the second space"
+            },
+            {
+                "id": 169,
+                "name": "the second space"
+            },
+            {
+                "id": 267,
+                "name": "the second space"
+            },
+            {
+                "id": 157,
+                "name": "the second space"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 345,
+        "name": "car parking",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 222,
+                "name": "carport"
+            },
+            {
+                "id": 170,
+                "name": "carport"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 346,
+        "name": "not exceed 30 percent of the area",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 171,
+                "name": "the area of the door"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 347,
+        "name": "not more than 600mm",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 274,
+                "name": "the setback distance"
+            },
+            {
+                "id": 214,
+                "name": "the setback distance"
+            },
+            {
+                "id": 305,
+                "name": "the setback distance"
+            },
+            {
+                "id": 244,
+                "name": "the setback distance"
+            },
+            {
+                "id": 172,
+                "name": "the setback distance"
+            },
+            {
+                "id": 226,
+                "name": "the setback distance"
+            },
+            {
+                "id": 285,
+                "name": "the setback distance"
+            },
+            {
+                "id": 180,
+                "name": "the setback distance"
+            },
+            {
+                "id": 274,
+                "name": "the setback distance"
+            },
+            {
+                "id": 180,
+                "name": "the setback distance"
+            },
+            {
+                "id": 172,
+                "name": "the setback distance"
+            },
+            {
+                "id": 214,
+                "name": "the setback distance"
+            },
+            {
+                "id": 226,
+                "name": "the setback distance"
+            },
+            {
+                "id": 285,
+                "name": "the setback distance"
+            },
+            {
+                "id": 244,
+                "name": "the setback distance"
+            },
+            {
+                "id": 305,
+                "name": "the setback distance"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 348,
+        "name": "not exceed a total of 2.0 metres",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 201,
+                "name": "building"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 349,
+        "name": "a minimum dimension of 2.0 metres",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 197,
+                "name": "a roof top area"
+            },
+            {
+                "id": 178,
+                "name": "a roof top area"
+            },
+            {
+                "id": 192,
+                "name": "the sunlight to any secluded private open space"
+            },
+            {
+                "id": 202,
+                "name": "the sunlight to any secluded private open space"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 350,
+        "name": "4.5 metres",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 203,
+                "name": "a horizontal distance"
+            },
+            {
+                "id": 195,
+                "name": "a horizontal distance"
+            },
+            {
+                "id": 103,
+                "name": "a horizontal distance"
+            },
+            {
+                "id": 203,
+                "name": "a horizontal distance"
+            },
+            {
+                "id": 195,
+                "name": "a horizontal distance"
+            },
+            {
+                "id": 103,
+                "name": "a horizontal distance"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 351,
+        "name": "a window within 1·5 m from the edge of the other habitable room window",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 40,
+                "name": "a window facing a habitable room window"
+            },
+            {
+                "id": 204,
+                "name": "a window facing a habitable room window"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 352,
+        "name": "at least 24 square metres of private open space",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 205,
+                "name": "an allotment has three or more bedrooms"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 353,
+        "name": "10 percent of the total floor area",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 206,
+                "name": "a balcony or rooftop area"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 354,
+        "name": "3m of the street alignment",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 179,
+                "name": "A front fence"
+            },
+            {
+                "id": 207,
+                "name": "A front fence"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 355,
+        "name": "at least 25 per cent transparent",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 251,
+                "name": "the part of the fence between 2.0 metres and 2.5 metres"
+            },
+            {
+                "id": 231,
+                "name": "the part of the fence"
+            },
+            {
+                "id": 208,
+                "name": "height"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 356,
+        "name": "no more than 65 percent",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 250,
+                "name": "A fence"
+            },
+            {
+                "id": 247,
+                "name": "A fence"
+            },
+            {
+                "id": 199,
+                "name": "A fence"
+            },
+            {
+                "id": 221,
+                "name": "A fence"
+            },
+            {
+                "id": 209,
+                "name": "A fence"
+            },
+            {
+                "id": 228,
+                "name": "A fence"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 357,
+        "name": "enclosed on all sides",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 210,
+                "name": "bedroom"
+            },
+            {
+                "id": 78,
+                "name": "bedroom"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 358,
+        "name": "2 or more of its side open",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 241,
+                "name": "an open style car parking structure"
+            },
+            {
+                "id": 211,
+                "name": "an open style car parking structure"
+            },
+            {
+                "id": 223,
+                "name": "an open style car parking structure"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 359,
+        "name": "the minimum amount of light",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 212,
+                "name": "required habitable room window"
+            },
+            {
+                "id": 224,
+                "name": "required habitable room window"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 360,
+        "name": "not exceed 50 per cent of the width",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 268,
+                "name": "the width of the door(s) or opening(s)"
+            },
+            {
+                "id": 189,
+                "name": "the front street the width of the door"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 361,
+        "name": "not more than 500mm",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 190,
+                "name": "the setback distance required"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 362,
+        "name": "within 0.2 metres of a side",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 275,
+                "name": "The maximum height of a wall"
+            },
+            {
+                "id": 191,
+                "name": "The maximum height of a wall"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 363,
+        "name": "less than 6 square metres",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 202,
+                "name": "the sunlight to any secluded private open space"
+            },
+            {
+                "id": 192,
+                "name": "the sunlight to any secluded private open space"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 364,
+        "name": "an angle less than 45°",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 174,
+                "name": "the floor level of the room"
+            },
+            {
+                "id": 193,
+                "name": "the floor level of the room"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 365,
+        "name": "below 1·7 metres",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 194,
+                "name": "obscure glazing"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 366,
+        "name": "4.5 metres",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 103,
+                "name": "a horizontal distance"
+            },
+            {
+                "id": 195,
+                "name": "a horizontal distance"
+            },
+            {
+                "id": 203,
+                "name": "a horizontal distance"
+            },
+            {
+                "id": 195,
+                "name": "a horizontal distance"
+            },
+            {
+                "id": 203,
+                "name": "a horizontal distance"
+            },
+            {
+                "id": 103,
+                "name": "a horizontal distance"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 367,
+        "name": "a minimum dimension of 3.0 metres",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 196,
+                "name": "the side or rear of the building"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 368,
+        "name": "a minimum dimension of 2.0 metres",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 197,
+                "name": "a roof top area"
+            },
+            {
+                "id": 178,
+                "name": "a roof top area"
+            },
+            {
+                "id": 202,
+                "name": "the sunlight to any secluded private open space"
+            },
+            {
+                "id": 192,
+                "name": "the sunlight to any secluded private open space"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 369,
+        "name": "more than 150mm",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 198,
+                "name": "Fences setbac"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 370,
+        "name": "not exceed 2.0 metres in height",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 218,
+                "name": "A fence on a rear street alignment"
+            },
+            {
+                "id": 199,
+                "name": "A fence"
+            },
+            {
+                "id": 228,
+                "name": "A fence"
+            },
+            {
+                "id": 250,
+                "name": "A fence"
+            },
+            {
+                "id": 247,
+                "name": "A fence"
+            },
+            {
+                "id": 209,
+                "name": "A fence"
+            },
+            {
+                "id": 221,
+                "name": "A fence"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 371,
+        "name": "at least 15 per cent transparent",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 248,
+                "name": "the remaining length of the fence"
+            },
+            {
+                "id": 240,
+                "name": "the remaining length of the fence"
+            },
+            {
+                "id": 240,
+                "name": "the remaining length of the fence"
+            },
+            {
+                "id": 248,
+                "name": "the remaining length of the fence"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 372,
+        "name": "open for at least 1/3 of its perimeter",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 223,
+                "name": "an open style car parking structure"
+            },
+            {
+                "id": 241,
+                "name": "an open style car parking structure"
+            },
+            {
+                "id": 211,
+                "name": "an open style car parking structure"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 373,
+        "name": "a material that transmits at least 90 per cent of light",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 242,
+                "name": "an area roofed"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 374,
+        "name": "not the front street",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 243,
+                "name": "other street (not lane)"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 375,
+        "name": "no more than 1.5 metres",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 226,
+                "name": "the setback distance"
+            },
+            {
+                "id": 244,
+                "name": "the setback distance"
+            },
+            {
+                "id": 214,
+                "name": "the setback distance"
+            },
+            {
+                "id": 285,
+                "name": "the setback distance"
+            },
+            {
+                "id": 305,
+                "name": "the setback distance"
+            },
+            {
+                "id": 274,
+                "name": "the setback distance"
+            },
+            {
+                "id": 172,
+                "name": "the setback distance"
+            },
+            {
+                "id": 180,
+                "name": "the setback distance"
+            },
+            {
+                "id": 165,
+                "name": "projects"
+            },
+            {
+                "id": 263,
+                "name": "projects"
+            },
+            {
+                "id": 163,
+                "name": "projects"
+            },
+            {
+                "id": 151,
+                "name": "projects"
+            },
+            {
+                "id": 234,
+                "name": "projects"
+            },
+            {
+                "id": 252,
+                "name": "projects"
+            },
+            {
+                "id": 232,
+                "name": "projects"
+            },
+            {
+                "id": 153,
+                "name": "projects"
+            },
+            {
+                "id": 253,
+                "name": "projects"
+            },
+            {
+                "id": 166,
+                "name": "projects"
+            },
+            {
+                "id": 184,
+                "name": "projects"
+            },
+            {
+                "id": 233,
+                "name": "projects"
+            },
+            {
+                "id": 139,
+                "name": "The front wall of a new Class 1a Building"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 376,
+        "name": "at least 2 sides",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 215,
+                "name": "verandah or pergola"
+            },
+            {
+                "id": 245,
+                "name": "a porch"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 377,
+        "name": "within 3.0 metres of a point of intersection",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 5,
+                "name": "a fence"
+            },
+            {
+                "id": 77,
+                "name": "a fence"
+            },
+            {
+                "id": 216,
+                "name": "a fence"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 378,
+        "name": "A fence",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 217,
+                "name": "exceed 2.0 metres in height"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 379,
+        "name": "at least 15 per cent transparent",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 240,
+                "name": "the remaining length of the fence"
+            },
+            {
+                "id": 248,
+                "name": "the remaining length of the fence"
+            },
+            {
+                "id": 248,
+                "name": "the remaining length of the fence"
+            },
+            {
+                "id": 240,
+                "name": "the remaining length of the fence"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 380,
+        "name": "the front wall of a dwelling",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 228,
+                "name": "A fence"
+            },
+            {
+                "id": 209,
+                "name": "A fence"
+            },
+            {
+                "id": 199,
+                "name": "A fence"
+            },
+            {
+                "id": 250,
+                "name": "A fence"
+            },
+            {
+                "id": 247,
+                "name": "A fence"
+            },
+            {
+                "id": 221,
+                "name": "A fence"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 381,
+        "name": "an open style car parking structure",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 222,
+                "name": "carport"
+            },
+            {
+                "id": 170,
+                "name": "carport"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 382,
+        "name": "a side of a carport",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 211,
+                "name": "an open style car parking structure"
+            },
+            {
+                "id": 241,
+                "name": "an open style car parking structure"
+            },
+            {
+                "id": 223,
+                "name": "an open style car parking structure"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 383,
+        "name": "ventilation to a habitable room",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 224,
+                "name": "required habitable room window"
+            },
+            {
+                "id": 212,
+                "name": "required habitable room window"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 384,
+        "name": "an application for building permits",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 7,
+                "name": "simultaneously approved"
+            },
+            {
+                "id": 213,
+                "name": "simultaneously approved"
+            },
+            {
+                "id": 225,
+                "name": "simultaneously approved"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 385,
+        "name": "decks, steps or landings less than 800mm in height",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 172,
+                "name": "the setback distance"
+            },
+            {
+                "id": 226,
+                "name": "the setback distance"
+            },
+            {
+                "id": 305,
+                "name": "the setback distance"
+            },
+            {
+                "id": 285,
+                "name": "the setback distance"
+            },
+            {
+                "id": 214,
+                "name": "the setback distance"
+            },
+            {
+                "id": 274,
+                "name": "the setback distance"
+            },
+            {
+                "id": 180,
+                "name": "the setback distance"
+            },
+            {
+                "id": 244,
+                "name": "the setback distance"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 386,
+        "name": "north-facing habitable room windows",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 246,
+                "name": "Fences and solar"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 387,
+        "name": "within 1.0 metre of a side street alignment",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 199,
+                "name": "A fence"
+            },
+            {
+                "id": 209,
+                "name": "A fence"
+            },
+            {
+                "id": 228,
+                "name": "A fence"
+            },
+            {
+                "id": 250,
+                "name": "A fence"
+            },
+            {
+                "id": 247,
+                "name": "A fence"
+            },
+            {
+                "id": 221,
+                "name": "A fence"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 388,
+        "name": "not exceed 2.0 metres in height",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 218,
+                "name": "A fence on a rear street alignment"
+            },
+            {
+                "id": 209,
+                "name": "A fence"
+            },
+            {
+                "id": 228,
+                "name": "A fence"
+            },
+            {
+                "id": 221,
+                "name": "A fence"
+            },
+            {
+                "id": 199,
+                "name": "A fence"
+            },
+            {
+                "id": 247,
+                "name": "A fence"
+            },
+            {
+                "id": 250,
+                "name": "A fence"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 389,
+        "name": "at least 15 per cent transparent above 700mm height",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 219,
+                "name": "front fence"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 390,
+        "name": "not exceed 2.5 metres in height",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 260,
+                "name": "rear boundary"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 391,
+        "name": "not exceed 80 per cent of the frontage",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 262,
+                "name": "a width"
+            },
+            {
+                "id": 261,
+                "name": "a width"
+            },
+            {
+                "id": 182,
+                "name": "a width"
+            },
+            {
+                "id": 182,
+                "name": "a width"
+            },
+            {
+                "id": 262,
+                "name": "a width"
+            },
+            {
+                "id": 261,
+                "name": "a width"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 392,
+        "name": "not exceed 80 per cent of the frontage",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 261,
+                "name": "a width"
+            },
+            {
+                "id": 262,
+                "name": "a width"
+            },
+            {
+                "id": 182,
+                "name": "a width"
+            },
+            {
+                "id": 262,
+                "name": "a width"
+            },
+            {
+                "id": 261,
+                "name": "a width"
+            },
+            {
+                "id": 182,
+                "name": "a width"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 393,
+        "name": "at least 800mm",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 166,
+                "name": "projects"
+            },
+            {
+                "id": 234,
+                "name": "projects"
+            },
+            {
+                "id": 232,
+                "name": "projects"
+            },
+            {
+                "id": 163,
+                "name": "projects"
+            },
+            {
+                "id": 165,
+                "name": "projects"
+            },
+            {
+                "id": 151,
+                "name": "projects"
+            },
+            {
+                "id": 153,
+                "name": "projects"
+            },
+            {
+                "id": 184,
+                "name": "projects"
+            },
+            {
+                "id": 233,
+                "name": "projects"
+            },
+            {
+                "id": 263,
+                "name": "projects"
+            },
+            {
+                "id": 253,
+                "name": "projects"
+            },
+            {
+                "id": 252,
+                "name": "projects"
+            },
+            {
+                "id": 253,
+                "name": "projects"
+            },
+            {
+                "id": 184,
+                "name": "projects"
+            },
+            {
+                "id": 163,
+                "name": "projects"
+            },
+            {
+                "id": 252,
+                "name": "projects"
+            },
+            {
+                "id": 165,
+                "name": "projects"
+            },
+            {
+                "id": 234,
+                "name": "projects"
+            },
+            {
+                "id": 153,
+                "name": "projects"
+            },
+            {
+                "id": 232,
+                "name": "projects"
+            },
+            {
+                "id": 263,
+                "name": "projects"
+            },
+            {
+                "id": 166,
+                "name": "projects"
+            },
+            {
+                "id": 233,
+                "name": "projects"
+            },
+            {
+                "id": 151,
+                "name": "projects"
+            },
+            {
+                "id": 151,
+                "name": "projects"
+            },
+            {
+                "id": 165,
+                "name": "projects"
+            },
+            {
+                "id": 253,
+                "name": "projects"
+            },
+            {
+                "id": 233,
+                "name": "projects"
+            },
+            {
+                "id": 184,
+                "name": "projects"
+            },
+            {
+                "id": 166,
+                "name": "projects"
+            },
+            {
+                "id": 234,
+                "name": "projects"
+            },
+            {
+                "id": 232,
+                "name": "projects"
+            },
+            {
+                "id": 153,
+                "name": "projects"
+            },
+            {
+                "id": 252,
+                "name": "projects"
+            },
+            {
+                "id": 163,
+                "name": "projects"
+            },
+            {
+                "id": 263,
+                "name": "projects"
+            },
+            {
+                "id": 232,
+                "name": "projects"
+            },
+            {
+                "id": 184,
+                "name": "projects"
+            },
+            {
+                "id": 166,
+                "name": "projects"
+            },
+            {
+                "id": 233,
+                "name": "projects"
+            },
+            {
+                "id": 151,
+                "name": "projects"
+            },
+            {
+                "id": 234,
+                "name": "projects"
+            },
+            {
+                "id": 263,
+                "name": "projects"
+            },
+            {
+                "id": 165,
+                "name": "projects"
+            },
+            {
+                "id": 163,
+                "name": "projects"
+            },
+            {
+                "id": 253,
+                "name": "projects"
+            },
+            {
+                "id": 252,
+                "name": "projects"
+            },
+            {
+                "id": 153,
+                "name": "projects"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 394,
+        "name": "not more than 1.0 metre forward of the front wall",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 264,
+                "name": "project"
+            },
+            {
+                "id": 254,
+                "name": "project"
+            },
+            {
+                "id": 183,
+                "name": "project"
+            },
+            {
+                "id": 152,
+                "name": "project"
+            },
+            {
+                "id": 264,
+                "name": "project"
+            },
+            {
+                "id": 183,
+                "name": "project"
+            },
+            {
+                "id": 152,
+                "name": "project"
+            },
+            {
+                "id": 254,
+                "name": "project"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 395,
+        "name": "not exceeding 600mm in total width",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 265,
+                "name": "fascia and gutters"
+            },
+            {
+                "id": 256,
+                "name": "fascia and gutters"
+            },
+            {
+                "id": 236,
+                "name": "fascia and gutters"
+            },
+            {
+                "id": 237,
+                "name": "fascia and gutters"
+            },
+            {
+                "id": 90,
+                "name": "fascia and gutters"
+            },
+            {
+                "id": 167,
+                "name": "eaves, fascia and gutters"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 396,
+        "name": "unroofed patios",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 265,
+                "name": "fascia and gutters"
+            },
+            {
+                "id": 256,
+                "name": "fascia and gutters"
+            },
+            {
+                "id": 237,
+                "name": "fascia and gutters"
+            },
+            {
+                "id": 90,
+                "name": "fascia and gutters"
+            },
+            {
+                "id": 236,
+                "name": "fascia and gutters"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 397,
+        "name": "car parking space",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 238,
+                "name": "3.5 metres wide"
+            },
+            {
+                "id": 266,
+                "name": "at least 6.0 metres long"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 398,
+        "name": "2.1 metres",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 239,
+                "name": "car parking space"
+            },
+            {
+                "id": 188,
+                "name": "a garage"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 399,
+        "name": "not exceed 30 per cent of the area",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 280,
+                "name": "the area of the door(s) or opening(s)"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 400,
+        "name": "have obtained their building permits on the same day",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 213,
+                "name": "simultaneously approved"
+            },
+            {
+                "id": 225,
+                "name": "simultaneously approved"
+            },
+            {
+                "id": 7,
+                "name": "simultaneously approved"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 401,
+        "name": "fascia and gutters",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 285,
+                "name": "the setback distance"
+            },
+            {
+                "id": 274,
+                "name": "the setback distance"
+            },
+            {
+                "id": 172,
+                "name": "the setback distance"
+            },
+            {
+                "id": 226,
+                "name": "the setback distance"
+            },
+            {
+                "id": 180,
+                "name": "the setback distance"
+            },
+            {
+                "id": 244,
+                "name": "the setback distance"
+            },
+            {
+                "id": 305,
+                "name": "the setback distance"
+            },
+            {
+                "id": 214,
+                "name": "the setback distance"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 402,
+        "name": "at least 2 sides",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 215,
+                "name": "verandah or pergola"
+            },
+            {
+                "id": 245,
+                "name": "a porch"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 403,
+        "name": "1.0 metre above footpath level",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 176,
+                "name": "a height"
+            },
+            {
+                "id": 227,
+                "name": "a height"
+            },
+            {
+                "id": 304,
+                "name": "a height"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 404,
+        "name": "no more than 65 per cent of its length",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 209,
+                "name": "A fence"
+            },
+            {
+                "id": 221,
+                "name": "A fence"
+            },
+            {
+                "id": 250,
+                "name": "A fence"
+            },
+            {
+                "id": 199,
+                "name": "A fence"
+            },
+            {
+                "id": 247,
+                "name": "A fence"
+            },
+            {
+                "id": 228,
+                "name": "A fence"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 405,
+        "name": "within 1.0 metre of a street alignment",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 229,
+                "name": "A fence adjacent"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 406,
+        "name": "more than 150mm from side",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 230,
+                "name": "Fences setback"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 407,
+        "name": "at least 25 per cent transparent",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 251,
+                "name": "the part of the fence between 2.0 metres and 2.5 metres"
+            },
+            {
+                "id": 231,
+                "name": "the part of the fence"
+            },
+            {
+                "id": 208,
+                "name": "height"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 408,
+        "name": "no more than 1.5 metres forward of the front wall",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 234,
+                "name": "projects"
+            },
+            {
+                "id": 163,
+                "name": "projects"
+            },
+            {
+                "id": 232,
+                "name": "projects"
+            },
+            {
+                "id": 233,
+                "name": "projects"
+            },
+            {
+                "id": 263,
+                "name": "projects"
+            },
+            {
+                "id": 184,
+                "name": "projects"
+            },
+            {
+                "id": 165,
+                "name": "projects"
+            },
+            {
+                "id": 166,
+                "name": "projects"
+            },
+            {
+                "id": 151,
+                "name": "projects"
+            },
+            {
+                "id": 252,
+                "name": "projects"
+            },
+            {
+                "id": 153,
+                "name": "projects"
+            },
+            {
+                "id": 253,
+                "name": "projects"
+            },
+            {
+                "id": 165,
+                "name": "projects"
+            },
+            {
+                "id": 184,
+                "name": "projects"
+            },
+            {
+                "id": 151,
+                "name": "projects"
+            },
+            {
+                "id": 233,
+                "name": "projects"
+            },
+            {
+                "id": 166,
+                "name": "projects"
+            },
+            {
+                "id": 232,
+                "name": "projects"
+            },
+            {
+                "id": 234,
+                "name": "projects"
+            },
+            {
+                "id": 252,
+                "name": "projects"
+            },
+            {
+                "id": 253,
+                "name": "projects"
+            },
+            {
+                "id": 263,
+                "name": "projects"
+            },
+            {
+                "id": 153,
+                "name": "projects"
+            },
+            {
+                "id": 163,
+                "name": "projects"
+            },
+            {
+                "id": 252,
+                "name": "projects"
+            },
+            {
+                "id": 263,
+                "name": "projects"
+            },
+            {
+                "id": 166,
+                "name": "projects"
+            },
+            {
+                "id": 253,
+                "name": "projects"
+            },
+            {
+                "id": 153,
+                "name": "projects"
+            },
+            {
+                "id": 163,
+                "name": "projects"
+            },
+            {
+                "id": 232,
+                "name": "projects"
+            },
+            {
+                "id": 184,
+                "name": "projects"
+            },
+            {
+                "id": 233,
+                "name": "projects"
+            },
+            {
+                "id": 151,
+                "name": "projects"
+            },
+            {
+                "id": 234,
+                "name": "projects"
+            },
+            {
+                "id": 165,
+                "name": "projects"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 409,
+        "name": "no more than 1.0 metre forward of the front wall",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 151,
+                "name": "projects"
+            },
+            {
+                "id": 163,
+                "name": "projects"
+            },
+            {
+                "id": 234,
+                "name": "projects"
+            },
+            {
+                "id": 253,
+                "name": "projects"
+            },
+            {
+                "id": 153,
+                "name": "projects"
+            },
+            {
+                "id": 263,
+                "name": "projects"
+            },
+            {
+                "id": 184,
+                "name": "projects"
+            },
+            {
+                "id": 166,
+                "name": "projects"
+            },
+            {
+                "id": 252,
+                "name": "projects"
+            },
+            {
+                "id": 232,
+                "name": "projects"
+            },
+            {
+                "id": 233,
+                "name": "projects"
+            },
+            {
+                "id": 165,
+                "name": "projects"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 410,
+        "name": "at least 300mm",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 152,
+                "name": "project"
+            },
+            {
+                "id": 254,
+                "name": "project"
+            },
+            {
+                "id": 264,
+                "name": "project"
+            },
+            {
+                "id": 183,
+                "name": "project"
+            },
+            {
+                "id": 153,
+                "name": "projects"
+            },
+            {
+                "id": 184,
+                "name": "projects"
+            },
+            {
+                "id": 165,
+                "name": "projects"
+            },
+            {
+                "id": 263,
+                "name": "projects"
+            },
+            {
+                "id": 252,
+                "name": "projects"
+            },
+            {
+                "id": 234,
+                "name": "projects"
+            },
+            {
+                "id": 166,
+                "name": "projects"
+            },
+            {
+                "id": 233,
+                "name": "projects"
+            },
+            {
+                "id": 151,
+                "name": "projects"
+            },
+            {
+                "id": 163,
+                "name": "projects"
+            },
+            {
+                "id": 253,
+                "name": "projects"
+            },
+            {
+                "id": 232,
+                "name": "projects"
+            },
+            {
+                "id": 232,
+                "name": "projects"
+            },
+            {
+                "id": 233,
+                "name": "projects"
+            },
+            {
+                "id": 153,
+                "name": "projects"
+            },
+            {
+                "id": 165,
+                "name": "projects"
+            },
+            {
+                "id": 234,
+                "name": "projects"
+            },
+            {
+                "id": 263,
+                "name": "projects"
+            },
+            {
+                "id": 253,
+                "name": "projects"
+            },
+            {
+                "id": 252,
+                "name": "projects"
+            },
+            {
+                "id": 163,
+                "name": "projects"
+            },
+            {
+                "id": 184,
+                "name": "projects"
+            },
+            {
+                "id": 166,
+                "name": "projects"
+            },
+            {
+                "id": 151,
+                "name": "projects"
+            },
+            {
+                "id": 183,
+                "name": "project"
+            },
+            {
+                "id": 152,
+                "name": "project"
+            },
+            {
+                "id": 264,
+                "name": "project"
+            },
+            {
+                "id": 254,
+                "name": "project"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 411,
+        "name": "no more than 3 storeys at any point",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 185,
+                "name": "the building"
+            },
+            {
+                "id": 255,
+                "name": "the building"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 412,
+        "name": "unroofed terraces",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 90,
+                "name": "fascia and gutters"
+            },
+            {
+                "id": 237,
+                "name": "fascia and gutters"
+            },
+            {
+                "id": 256,
+                "name": "fascia and gutters"
+            },
+            {
+                "id": 265,
+                "name": "fascia and gutters"
+            },
+            {
+                "id": 236,
+                "name": "fascia and gutters"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 413,
+        "name": "less than 6.0m",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 257,
+                "name": "the allotment has a frontage width"
+            },
+            {
+                "id": 155,
+                "name": "a frontage width"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 414,
+        "name": "at least 4·9 metres long",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 157,
+                "name": "the second space"
+            },
+            {
+                "id": 267,
+                "name": "the second space"
+            },
+            {
+                "id": 258,
+                "name": "the second space"
+            },
+            {
+                "id": 169,
+                "name": "the second space"
+            },
+            {
+                "id": 258,
+                "name": "the second space"
+            },
+            {
+                "id": 267,
+                "name": "the second space"
+            },
+            {
+                "id": 157,
+                "name": "the second space"
+            },
+            {
+                "id": 169,
+                "name": "the second space"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 415,
+        "name": "the double space",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 259,
+                "name": "5·5 metres in width"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 416,
+        "name": "a dwelling on an allotment",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 300,
+                "name": "at least 24 square metres of private open space"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 417,
+        "name": "parcel",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 301,
+                "name": "a minimum dimension of 3.0 metres"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 418,
+        "name": "a minimum area of 3 square metres",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 302,
+                "name": "light court"
+            },
+            {
+                "id": 271,
+                "name": "light court"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 419,
+        "name": "below 1·7 metres above floor level",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 303,
+                "name": "the window"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 420,
+        "name": "not exceed the maximum height",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 249,
+                "name": "3m of the street alignment"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 421,
+        "name": "more than 150mm from a side",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 228,
+                "name": "A fence"
+            },
+            {
+                "id": 221,
+                "name": "A fence"
+            },
+            {
+                "id": 247,
+                "name": "A fence"
+            },
+            {
+                "id": 209,
+                "name": "A fence"
+            },
+            {
+                "id": 199,
+                "name": "A fence"
+            },
+            {
+                "id": 250,
+                "name": "A fence"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 422,
+        "name": "at least 25 per cent transparent",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 251,
+                "name": "the part of the fence between 2.0 metres and 2.5 metres"
+            },
+            {
+                "id": 231,
+                "name": "the part of the fence"
+            },
+            {
+                "id": 208,
+                "name": "height"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 423,
+        "name": "at least 800mm",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 165,
+                "name": "projects"
+            },
+            {
+                "id": 151,
+                "name": "projects"
+            },
+            {
+                "id": 233,
+                "name": "projects"
+            },
+            {
+                "id": 263,
+                "name": "projects"
+            },
+            {
+                "id": 234,
+                "name": "projects"
+            },
+            {
+                "id": 184,
+                "name": "projects"
+            },
+            {
+                "id": 232,
+                "name": "projects"
+            },
+            {
+                "id": 153,
+                "name": "projects"
+            },
+            {
+                "id": 253,
+                "name": "projects"
+            },
+            {
+                "id": 252,
+                "name": "projects"
+            },
+            {
+                "id": 166,
+                "name": "projects"
+            },
+            {
+                "id": 163,
+                "name": "projects"
+            },
+            {
+                "id": 151,
+                "name": "projects"
+            },
+            {
+                "id": 184,
+                "name": "projects"
+            },
+            {
+                "id": 253,
+                "name": "projects"
+            },
+            {
+                "id": 233,
+                "name": "projects"
+            },
+            {
+                "id": 153,
+                "name": "projects"
+            },
+            {
+                "id": 165,
+                "name": "projects"
+            },
+            {
+                "id": 234,
+                "name": "projects"
+            },
+            {
+                "id": 163,
+                "name": "projects"
+            },
+            {
+                "id": 232,
+                "name": "projects"
+            },
+            {
+                "id": 263,
+                "name": "projects"
+            },
+            {
+                "id": 252,
+                "name": "projects"
+            },
+            {
+                "id": 166,
+                "name": "projects"
+            },
+            {
+                "id": 234,
+                "name": "projects"
+            },
+            {
+                "id": 184,
+                "name": "projects"
+            },
+            {
+                "id": 166,
+                "name": "projects"
+            },
+            {
+                "id": 252,
+                "name": "projects"
+            },
+            {
+                "id": 151,
+                "name": "projects"
+            },
+            {
+                "id": 263,
+                "name": "projects"
+            },
+            {
+                "id": 165,
+                "name": "projects"
+            },
+            {
+                "id": 233,
+                "name": "projects"
+            },
+            {
+                "id": 232,
+                "name": "projects"
+            },
+            {
+                "id": 153,
+                "name": "projects"
+            },
+            {
+                "id": 163,
+                "name": "projects"
+            },
+            {
+                "id": 253,
+                "name": "projects"
+            },
+            {
+                "id": 163,
+                "name": "projects"
+            },
+            {
+                "id": 184,
+                "name": "projects"
+            },
+            {
+                "id": 233,
+                "name": "projects"
+            },
+            {
+                "id": 151,
+                "name": "projects"
+            },
+            {
+                "id": 252,
+                "name": "projects"
+            },
+            {
+                "id": 232,
+                "name": "projects"
+            },
+            {
+                "id": 166,
+                "name": "projects"
+            },
+            {
+                "id": 153,
+                "name": "projects"
+            },
+            {
+                "id": 234,
+                "name": "projects"
+            },
+            {
+                "id": 253,
+                "name": "projects"
+            },
+            {
+                "id": 263,
+                "name": "projects"
+            },
+            {
+                "id": 165,
+                "name": "projects"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 424,
+        "name": "at least 300mm",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 152,
+                "name": "project"
+            },
+            {
+                "id": 183,
+                "name": "project"
+            },
+            {
+                "id": 254,
+                "name": "project"
+            },
+            {
+                "id": 264,
+                "name": "project"
+            },
+            {
+                "id": 153,
+                "name": "projects"
+            },
+            {
+                "id": 184,
+                "name": "projects"
+            },
+            {
+                "id": 163,
+                "name": "projects"
+            },
+            {
+                "id": 234,
+                "name": "projects"
+            },
+            {
+                "id": 232,
+                "name": "projects"
+            },
+            {
+                "id": 252,
+                "name": "projects"
+            },
+            {
+                "id": 165,
+                "name": "projects"
+            },
+            {
+                "id": 263,
+                "name": "projects"
+            },
+            {
+                "id": 253,
+                "name": "projects"
+            },
+            {
+                "id": 166,
+                "name": "projects"
+            },
+            {
+                "id": 151,
+                "name": "projects"
+            },
+            {
+                "id": 233,
+                "name": "projects"
+            },
+            {
+                "id": 252,
+                "name": "projects"
+            },
+            {
+                "id": 233,
+                "name": "projects"
+            },
+            {
+                "id": 232,
+                "name": "projects"
+            },
+            {
+                "id": 153,
+                "name": "projects"
+            },
+            {
+                "id": 263,
+                "name": "projects"
+            },
+            {
+                "id": 151,
+                "name": "projects"
+            },
+            {
+                "id": 253,
+                "name": "projects"
+            },
+            {
+                "id": 165,
+                "name": "projects"
+            },
+            {
+                "id": 163,
+                "name": "projects"
+            },
+            {
+                "id": 184,
+                "name": "projects"
+            },
+            {
+                "id": 234,
+                "name": "projects"
+            },
+            {
+                "id": 166,
+                "name": "projects"
+            },
+            {
+                "id": 152,
+                "name": "project"
+            },
+            {
+                "id": 264,
+                "name": "project"
+            },
+            {
+                "id": 254,
+                "name": "project"
+            },
+            {
+                "id": 183,
+                "name": "project"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 425,
+        "name": "no more than 1.5 metres forward of the front wall",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 153,
+                "name": "projects"
+            },
+            {
+                "id": 252,
+                "name": "projects"
+            },
+            {
+                "id": 163,
+                "name": "projects"
+            },
+            {
+                "id": 234,
+                "name": "projects"
+            },
+            {
+                "id": 253,
+                "name": "projects"
+            },
+            {
+                "id": 184,
+                "name": "projects"
+            },
+            {
+                "id": 166,
+                "name": "projects"
+            },
+            {
+                "id": 232,
+                "name": "projects"
+            },
+            {
+                "id": 263,
+                "name": "projects"
+            },
+            {
+                "id": 233,
+                "name": "projects"
+            },
+            {
+                "id": 151,
+                "name": "projects"
+            },
+            {
+                "id": 165,
+                "name": "projects"
+            },
+            {
+                "id": 252,
+                "name": "projects"
+            },
+            {
+                "id": 253,
+                "name": "projects"
+            },
+            {
+                "id": 263,
+                "name": "projects"
+            },
+            {
+                "id": 184,
+                "name": "projects"
+            },
+            {
+                "id": 234,
+                "name": "projects"
+            },
+            {
+                "id": 163,
+                "name": "projects"
+            },
+            {
+                "id": 166,
+                "name": "projects"
+            },
+            {
+                "id": 153,
+                "name": "projects"
+            },
+            {
+                "id": 233,
+                "name": "projects"
+            },
+            {
+                "id": 232,
+                "name": "projects"
+            },
+            {
+                "id": 151,
+                "name": "projects"
+            },
+            {
+                "id": 165,
+                "name": "projects"
+            },
+            {
+                "id": 165,
+                "name": "projects"
+            },
+            {
+                "id": 253,
+                "name": "projects"
+            },
+            {
+                "id": 163,
+                "name": "projects"
+            },
+            {
+                "id": 151,
+                "name": "projects"
+            },
+            {
+                "id": 252,
+                "name": "projects"
+            },
+            {
+                "id": 263,
+                "name": "projects"
+            },
+            {
+                "id": 233,
+                "name": "projects"
+            },
+            {
+                "id": 234,
+                "name": "projects"
+            },
+            {
+                "id": 184,
+                "name": "projects"
+            },
+            {
+                "id": 232,
+                "name": "projects"
+            },
+            {
+                "id": 153,
+                "name": "projects"
+            },
+            {
+                "id": 166,
+                "name": "projects"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 426,
+        "name": "not exceed 11 metres",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 154,
+                "name": "the building height"
+            },
+            {
+                "id": 235,
+                "name": "the building height"
+            },
+            {
+                "id": 235,
+                "name": "the building height"
+            },
+            {
+                "id": 154,
+                "name": "the building height"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 427,
+        "name": "unroofed swimming pools",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 256,
+                "name": "fascia and gutters"
+            },
+            {
+                "id": 265,
+                "name": "fascia and gutters"
+            },
+            {
+                "id": 236,
+                "name": "fascia and gutters"
+            },
+            {
+                "id": 237,
+                "name": "fascia and gutters"
+            },
+            {
+                "id": 90,
+                "name": "fascia and gutters"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 428,
+        "name": "car parking space",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 238,
+                "name": "3.5 metres wide"
+            },
+            {
+                "id": 266,
+                "name": "at least 6.0 metres long"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 429,
+        "name": "2·6 metres wide",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 267,
+                "name": "the second space"
+            },
+            {
+                "id": 157,
+                "name": "the second space"
+            },
+            {
+                "id": 169,
+                "name": "the second space"
+            },
+            {
+                "id": 258,
+                "name": "the second space"
+            },
+            {
+                "id": 157,
+                "name": "the second space"
+            },
+            {
+                "id": 169,
+                "name": "the second space"
+            },
+            {
+                "id": 267,
+                "name": "the second space"
+            },
+            {
+                "id": 258,
+                "name": "the second space"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 430,
+        "name": "not exceed 50 per cent of the width",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 268,
+                "name": "the width of the door(s) or opening(s)"
+            },
+            {
+                "id": 189,
+                "name": "the front street the width of the door"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 431,
+        "name": "3.0 metres",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 269,
+                "name": "a minimum dimension"
+            },
+            {
+                "id": 270,
+                "name": "a minimum dimension"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 432,
+        "name": "2.0 metres",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 270,
+                "name": "a minimum dimension"
+            },
+            {
+                "id": 269,
+                "name": "a minimum dimension"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 433,
+        "name": "a minimum dimension of 1.0 metre",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 302,
+                "name": "light court"
+            },
+            {
+                "id": 271,
+                "name": "light court"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 434,
+        "name": "within 1·5 m from the edge",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 272,
+                "name": "a window"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 435,
+        "name": "the setback distance",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 284,
+                "name": "not more than 500mm"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 436,
+        "name": "less than 1.0 metre high",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 274,
+                "name": "the setback distance"
+            },
+            {
+                "id": 214,
+                "name": "the setback distance"
+            },
+            {
+                "id": 305,
+                "name": "the setback distance"
+            },
+            {
+                "id": 172,
+                "name": "the setback distance"
+            },
+            {
+                "id": 244,
+                "name": "the setback distance"
+            },
+            {
+                "id": 285,
+                "name": "the setback distance"
+            },
+            {
+                "id": 180,
+                "name": "the setback distance"
+            },
+            {
+                "id": 226,
+                "name": "the setback distance"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 437,
+        "name": "within 0.2 metres of a side or rear boundary",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 275,
+                "name": "The maximum height of a wall"
+            },
+            {
+                "id": 191,
+                "name": "The maximum height of a wall"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 438,
+        "name": "not exceed 3.6 metres",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 287,
+                "name": "the simultaneously approved building or carport"
+            },
+            {
+                "id": 276,
+                "name": "a carport"
+            },
+            {
+                "id": 307,
+                "name": "a carport"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 439,
+        "name": "via a rear laneway",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 288,
+                "name": "a dwelling"
+            },
+            {
+                "id": 309,
+                "name": "a dwelling"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 440,
+        "name": "at least 12 square metres",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 281,
+                "name": "each parcel"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 441,
+        "name": "two or less bedrooms",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 282,
+                "name": "at least 12 square metres"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 442,
+        "name": "at least 1.7 metres above floor level",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 283,
+                "name": "a sill height"
+            },
+            {
+                "id": 175,
+                "name": "a sill height"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 443,
+        "name": "least 1.7m above the floor level",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 227,
+                "name": "a height"
+            },
+            {
+                "id": 304,
+                "name": "a height"
+            },
+            {
+                "id": 176,
+                "name": "a height"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 444,
+        "name": "not more than 600mm",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 244,
+                "name": "the setback distance"
+            },
+            {
+                "id": 305,
+                "name": "the setback distance"
+            },
+            {
+                "id": 180,
+                "name": "the setback distance"
+            },
+            {
+                "id": 285,
+                "name": "the setback distance"
+            },
+            {
+                "id": 214,
+                "name": "the setback distance"
+            },
+            {
+                "id": 172,
+                "name": "the setback distance"
+            },
+            {
+                "id": 226,
+                "name": "the setback distance"
+            },
+            {
+                "id": 274,
+                "name": "the setback distance"
+            },
+            {
+                "id": 214,
+                "name": "the setback distance"
+            },
+            {
+                "id": 285,
+                "name": "the setback distance"
+            },
+            {
+                "id": 305,
+                "name": "the setback distance"
+            },
+            {
+                "id": 226,
+                "name": "the setback distance"
+            },
+            {
+                "id": 172,
+                "name": "the setback distance"
+            },
+            {
+                "id": 180,
+                "name": "the setback distance"
+            },
+            {
+                "id": 244,
+                "name": "the setback distance"
+            },
+            {
+                "id": 274,
+                "name": "the setback distance"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 445,
+        "name": "less than 800mm",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 200,
+                "name": "decks"
+            },
+            {
+                "id": 306,
+                "name": "decks"
+            },
+            {
+                "id": 306,
+                "name": "decks"
+            },
+            {
+                "id": 200,
+                "name": "decks"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 446,
+        "name": "within 1.0m of a side or rear boundary",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 307,
+                "name": "a carport"
+            },
+            {
+                "id": 276,
+                "name": "a carport"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 447,
+        "name": "the existing or simultaneously approved building",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 308,
+                "name": "not exceed a total of 2.0 metres"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 448,
+        "name": "no vehicle access at a street frontage",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 309,
+                "name": "a dwelling"
+            },
+            {
+                "id": 288,
+                "name": "a dwelling"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 460,
+        "name": "dwelling",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 273,
+                "name": "a horizontal distance of 4.5 metres"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 461,
+        "name": "not more than 2 square metres",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 285,
+                "name": "the setback distance"
+            },
+            {
+                "id": 226,
+                "name": "the setback distance"
+            },
+            {
+                "id": 172,
+                "name": "the setback distance"
+            },
+            {
+                "id": 305,
+                "name": "the setback distance"
+            },
+            {
+                "id": 274,
+                "name": "the setback distance"
+            },
+            {
+                "id": 244,
+                "name": "the setback distance"
+            },
+            {
+                "id": 180,
+                "name": "the setback distance"
+            },
+            {
+                "id": 214,
+                "name": "the setback distance"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 462,
+        "name": "more than 2.5m above natural ground level",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 286,
+                "name": "he floor level of the room"
+            },
+            {
+                "id": 174,
+                "name": "the floor level of the room"
+            },
+            {
+                "id": 193,
+                "name": "the floor level of the room"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 463,
+        "name": "not exceed 3.6 metres",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 287,
+                "name": "the simultaneously approved building or carport"
+            },
+            {
+                "id": 276,
+                "name": "a carport"
+            },
+            {
+                "id": 307,
+                "name": "a carport"
+            }
+        ],
+        "is": []
+    },
+    {
+        "id": 464,
+        "name": "an existing building",
+        "partOf": [],
+        "attributeOf": [
+            {
+                "id": 277,
+                "name": "less than 6 square metres"
+            }
+        ],
+        "is": []
+    }
+]

@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": 17,
+      "properties": {
+        "properties": {
+          "name": "a window within 1·5 m from the edge of the other habitable room window",
+          "lable": "Entity2"
+        }
+      }
+    }
+  ],
+  "nodes2": [
+    {
+      "id": 20,
+      "properties": {
+        "properties": {
+          "name": "a window facing a habitable room window1",
+          "lable": "Entity1"
+        }
+      }
+    },
+    {
+      "id": 222,
+      "properties": {
+        "properties": {
+          "name": "a window facing a habitable room window2",
+          "lable": "Entity1"
+        }
+      }
+    }
+  ]
+}

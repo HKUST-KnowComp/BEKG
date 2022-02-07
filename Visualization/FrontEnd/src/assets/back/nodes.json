@@ -1,0 +1,1778 @@
+[
+    {
+        "id": 0,
+        "name": "any part of the balcony"
+    },
+    {
+        "id": 1,
+        "name": "the area of the front façade of the building"
+    },
+    {
+        "id": 2,
+        "name": "clear to the sky"
+    },
+    {
+        "id": 3,
+        "name": "front wall"
+    },
+    {
+        "id": 4,
+        "name": "clear to the sky"
+    },
+    {
+        "id": 5,
+        "name": "habitable room"
+    },
+    {
+        "id": 6,
+        "name": "pergola"
+    },
+    {
+        "id": 7,
+        "name": "side street alignment"
+    },
+    {
+        "id": 8,
+        "name": "simultaneously approved"
+    },
+    {
+        "id": 9,
+        "name": "A front street setback"
+    },
+    {
+        "id": 10,
+        "name": "a structure"
+    },
+    {
+        "id": 11,
+        "name": "a rooftop area"
+    },
+    {
+        "id": 12,
+        "name": "an unroofed area of land"
+    },
+    {
+        "id": 13,
+        "name": "balcony"
+    },
+    {
+        "id": 14,
+        "name": "spa"
+    },
+    {
+        "id": 15,
+        "name": "a terrace"
+    },
+    {
+        "id": 16,
+        "name": "the walls of the building facing the front street"
+    },
+    {
+        "id": 17,
+        "name": "a window within 1·5 m from the edge of the other habitable room window"
+    },
+    {
+        "id": 18,
+        "name": "a freeway"
+    },
+    {
+        "id": 19,
+        "name": "the wall most forward of the building"
+    },
+    {
+        "id": 20,
+        "name": "a window facing a habitable room window"
+    },
+    {
+        "id": 21,
+        "name": "front street alignment"
+    },
+    {
+        "id": 22,
+        "name": "a group of two or more attached dwellings"
+    },
+    {
+        "id": 23,
+        "name": "existing wall"
+    },
+    {
+        "id": 24,
+        "name": "a fence"
+    },
+    {
+        "id": 25,
+        "name": "secluded private open space"
+    },
+    {
+        "id": 26,
+        "name": "site coverage"
+    },
+    {
+        "id": 27,
+        "name": "Each required habitable room window of a building"
+    },
+    {
+        "id": 28,
+        "name": "a single dwelling"
+    },
+    {
+        "id": 29,
+        "name": "a window required"
+    },
+    {
+        "id": 30,
+        "name": "the vertical distance between natural ground level"
+    },
+    {
+        "id": 31,
+        "name": "terrace"
+    },
+    {
+        "id": 32,
+        "name": "pergola"
+    },
+    {
+        "id": 33,
+        "name": "swimming pool"
+    },
+    {
+        "id": 34,
+        "name": "a balcony"
+    },
+    {
+        "id": 35,
+        "name": "the line between a street and an allotment"
+    },
+    {
+        "id": 36,
+        "name": "the area of the walls of the building facing the front street"
+    },
+    {
+        "id": 37,
+        "name": "an unroofed area"
+    },
+    {
+        "id": 38,
+        "name": "the street which the front of the dwelling faces"
+    },
+    {
+        "id": 39,
+        "name": "a building"
+    },
+    {
+        "id": 40,
+        "name": "allotment"
+    },
+    {
+        "id": 41,
+        "name": "declared road"
+    },
+    {
+        "id": 42,
+        "name": "natural ground level"
+    },
+    {
+        "id": 43,
+        "name": "existing building"
+    },
+    {
+        "id": 44,
+        "name": "a wall at any point"
+    },
+    {
+        "id": 45,
+        "name": "rear-loaded"
+    },
+    {
+        "id": 46,
+        "name": "storey"
+    },
+    {
+        "id": 47,
+        "name": "not less than 500mm"
+    },
+    {
+        "id": 48,
+        "name": "gazebo"
+    },
+    {
+        "id": 49,
+        "name": "a horizontal distance"
+    },
+    {
+        "id": 50,
+        "name": "a deck"
+    },
+    {
+        "id": 51,
+        "name": "forward of the front wall"
+    },
+    {
+        "id": 52,
+        "name": "land"
+    },
+    {
+        "id": 53,
+        "name": "an arterial road"
+    },
+    {
+        "id": 54,
+        "name": "the level of the ground"
+    },
+    {
+        "id": 55,
+        "name": "any part of a building or wall"
+    },
+    {
+        "id": 56,
+        "name": "the vertical distance"
+    },
+    {
+        "id": 57,
+        "name": "a dwelling"
+    },
+    {
+        "id": 58,
+        "name": "buildings"
+    },
+    {
+        "id": 59,
+        "name": "part of a building between floor levels"
+    },
+    {
+        "id": 60,
+        "name": "a non-habitable building"
+    },
+    {
+        "id": 61,
+        "name": "a balcony area"
+    },
+    {
+        "id": 62,
+        "name": "the top of the roof covering"
+    },
+    {
+        "id": 63,
+        "name": "patio"
+    },
+    {
+        "id": 64,
+        "name": "verandah"
+    },
+    {
+        "id": 65,
+        "name": "habitable room"
+    },
+    {
+        "id": 66,
+        "name": "a fence"
+    },
+    {
+        "id": 67,
+        "name": "bedroom"
+    },
+    {
+        "id": 68,
+        "name": "fence"
+    },
+    {
+        "id": 69,
+        "name": "storey"
+    },
+    {
+        "id": 70,
+        "name": "rear of the building"
+    },
+    {
+        "id": 71,
+        "name": "lounge room"
+    },
+    {
+        "id": 72,
+        "name": "kitchen"
+    },
+    {
+        "id": 73,
+        "name": "family room"
+    },
+    {
+        "id": 74,
+        "name": "carriageway"
+    },
+    {
+        "id": 75,
+        "name": "square"
+    },
+    {
+        "id": 76,
+        "name": "an applied zone"
+    },
+    {
+        "id": 77,
+        "name": "a row house"
+    },
+    {
+        "id": 78,
+        "name": "a floor area greater than 6 square metres"
+    },
+    {
+        "id": 79,
+        "name": "carports"
+    },
+    {
+        "id": 80,
+        "name": "an area roofed"
+    },
+    {
+        "id": 81,
+        "name": "a room used for normal domestic activities"
+    },
+    {
+        "id": 82,
+        "name": "an open structure"
+    },
+    {
+        "id": 83,
+        "name": "any part of private open space on an allotment"
+    },
+    {
+        "id": 84,
+        "name": "part of the allotment which is covered by buildings"
+    },
+    {
+        "id": 85,
+        "name": "a reserve"
+    },
+    {
+        "id": 86,
+        "name": "carports"
+    },
+    {
+        "id": 87,
+        "name": "The entrance"
+    },
+    {
+        "id": 88,
+        "name": "anddecks, steps or landings"
+    },
+    {
+        "id": 89,
+        "name": "projects"
+    },
+    {
+        "id": 90,
+        "name": "a width"
+    },
+    {
+        "id": 91,
+        "name": "project"
+    },
+    {
+        "id": 92,
+        "name": "projects"
+    },
+    {
+        "id": 93,
+        "name": "the building"
+    },
+    {
+        "id": 94,
+        "name": "1 car parking space"
+    },
+    {
+        "id": 95,
+        "name": "the second space"
+    },
+    {
+        "id": 96,
+        "name": "carport"
+    },
+    {
+        "id": 97,
+        "name": "the area of the door"
+    },
+    {
+        "id": 98,
+        "name": "the setback distance"
+    },
+    {
+        "id": 99,
+        "name": "building"
+    },
+    {
+        "id": 100,
+        "name": "any part of a building or wall"
+    },
+    {
+        "id": 101,
+        "name": "the vertical distance"
+    },
+    {
+        "id": 102,
+        "name": "other street (not lane)"
+    },
+    {
+        "id": 103,
+        "name": "part of the allotment"
+    },
+    {
+        "id": 104,
+        "name": "an outdoor space"
+    },
+    {
+        "id": 105,
+        "name": "The reference to zone"
+    },
+    {
+        "id": 106,
+        "name": "fence"
+    },
+    {
+        "id": 107,
+        "name": "Class 10b"
+    },
+    {
+        "id": 108,
+        "name": "a horizontal distance"
+    },
+    {
+        "id": 109,
+        "name": "a dwelling on an allotment"
+    },
+    {
+        "id": 110,
+        "name": "living room"
+    },
+    {
+        "id": 111,
+        "name": "television room"
+    },
+    {
+        "id": 112,
+        "name": "playroom"
+    },
+    {
+        "id": 113,
+        "name": "highway"
+    },
+    {
+        "id": 114,
+        "name": "footway"
+    },
+    {
+        "id": 115,
+        "name": "alley and right of way"
+    },
+    {
+        "id": 116,
+        "name": "a detached house"
+    },
+    {
+        "id": 117,
+        "name": "town house"
+    },
+    {
+        "id": 118,
+        "name": "a window"
+    },
+    {
+        "id": 119,
+        "name": "sheds"
+    },
+    {
+        "id": 120,
+        "name": "light court"
+    },
+    {
+        "id": 121,
+        "name": "street"
+    },
+    {
+        "id": 122,
+        "name": "villa unit"
+    },
+    {
+        "id": 123,
+        "name": "Class 10a"
+    },
+    {
+        "id": 124,
+        "name": "pergola"
+    },
+    {
+        "id": 125,
+        "name": "fascia and gutters"
+    },
+    {
+        "id": 126,
+        "name": "bedroom"
+    },
+    {
+        "id": 127,
+        "name": "music room"
+    },
+    {
+        "id": 128,
+        "name": "sewing room"
+    },
+    {
+        "id": 129,
+        "name": "a road"
+    },
+    {
+        "id": 130,
+        "name": "lane"
+    },
+    {
+        "id": 131,
+        "name": "court"
+    },
+    {
+        "id": 132,
+        "name": "the front wall of a dwelling"
+    },
+    {
+        "id": 133,
+        "name": "terrace house"
+    },
+    {
+        "id": 134,
+        "name": "a screen"
+    },
+    {
+        "id": 135,
+        "name": "private garages"
+    },
+    {
+        "id": 136,
+        "name": "mast"
+    },
+    {
+        "id": 137,
+        "name": "free-standing wall"
+    },
+    {
+        "id": 138,
+        "name": "structure similar to a fence"
+    },
+    {
+        "id": 139,
+        "name": "an attic"
+    },
+    {
+        "id": 140,
+        "name": "antenna"
+    },
+    {
+        "id": 141,
+        "name": "swimming pool"
+    },
+    {
+        "id": 142,
+        "name": "a covering of open weave permeable material"
+    },
+    {
+        "id": 143,
+        "name": "basement"
+    },
+    {
+        "id": 144,
+        "name": "unroofed swimming pools"
+    },
+    {
+        "id": 145,
+        "name": "three or more bedrooms"
+    },
+    {
+        "id": 146,
+        "name": "landing"
+    },
+    {
+        "id": 147,
+        "name": "buildings"
+    },
+    {
+        "id": 148,
+        "name": "The entrance"
+    },
+    {
+        "id": 149,
+        "name": "a porch, verandah or pergola"
+    },
+    {
+        "id": 150,
+        "name": "projects"
+    },
+    {
+        "id": 151,
+        "name": "project"
+    },
+    {
+        "id": 152,
+        "name": "projects"
+    },
+    {
+        "id": 153,
+        "name": "projects"
+    },
+    {
+        "id": 154,
+        "name": "eaves, fascia and gutters"
+    },
+    {
+        "id": 155,
+        "name": "1 car parking space"
+    },
+    {
+        "id": 156,
+        "name": "2 car parking spaces"
+    },
+    {
+        "id": 157,
+        "name": "a garage"
+    },
+    {
+        "id": 158,
+        "name": "the front street the width of the door"
+    },
+    {
+        "id": 159,
+        "name": "the setback distance required"
+    },
+    {
+        "id": 160,
+        "name": "retaining"
+    },
+    {
+        "id": 161,
+        "name": "a fence"
+    },
+    {
+        "id": 162,
+        "name": "boundary or building"
+    },
+    {
+        "id": 163,
+        "name": "built over car parking area"
+    },
+    {
+        "id": 164,
+        "name": "unroofed terraces"
+    },
+    {
+        "id": 165,
+        "name": "a minimum dimension"
+    },
+    {
+        "id": 166,
+        "name": "a patio"
+    },
+    {
+        "id": 167,
+        "name": "within 200mm of a side"
+    },
+    {
+        "id": 168,
+        "name": "no less than 2.0 metres from the side street alignment"
+    },
+    {
+        "id": 169,
+        "name": "least 2 sides"
+    },
+    {
+        "id": 170,
+        "name": "no more than 1.5 metres forward of the front wall"
+    },
+    {
+        "id": 171,
+        "name": "at least 300mm"
+    },
+    {
+        "id": 172,
+        "name": "no more than 1.0 metre"
+    },
+    {
+        "id": 173,
+        "name": "not exceed 11 metres"
+    },
+    {
+        "id": 174,
+        "name": "less than 6.0m"
+    },
+    {
+        "id": 175,
+        "name": "at least 6.0 metres long"
+    },
+    {
+        "id": 176,
+        "name": "2·6 metres wide"
+    },
+    {
+        "id": 177,
+        "name": "5·5 metres in width"
+    },
+    {
+        "id": 178,
+        "name": "the area of the walls of the building facing the front street"
+    },
+    {
+        "id": 179,
+        "name": "less than 800mm"
+    },
+    {
+        "id": 180,
+        "name": "mezzanine"
+    },
+    {
+        "id": 181,
+        "name": "unroofed patios"
+    },
+    {
+        "id": 182,
+        "name": "The front wall of a new Class 1a Building"
+    },
+    {
+        "id": 183,
+        "name": "the setback distance"
+    },
+    {
+        "id": 184,
+        "name": "a width t"
+    },
+    {
+        "id": 185,
+        "name": "dimension"
+    },
+    {
+        "id": 186,
+        "name": "projects"
+    },
+    {
+        "id": 187,
+        "name": "the building height"
+    },
+    {
+        "id": 188,
+        "name": "a frontage width"
+    },
+    {
+        "id": 189,
+        "name": "2 car parking spaces"
+    },
+    {
+        "id": 190,
+        "name": "the second space"
+    },
+    {
+        "id": 191,
+        "name": "the double space"
+    },
+    {
+        "id": 192,
+        "name": "the area of the front façade of the building"
+    },
+    {
+        "id": 193,
+        "name": "decks"
+    },
+    {
+        "id": 194,
+        "name": "building or carport"
+    },
+    {
+        "id": 195,
+        "name": "the floor level of the room"
+    },
+    {
+        "id": 196,
+        "name": "a sill height"
+    },
+    {
+        "id": 197,
+        "name": "a height"
+    },
+    {
+        "id": 198,
+        "name": "an allotment has two or less bedrooms"
+    },
+    {
+        "id": 199,
+        "name": "a roof top area"
+    },
+    {
+        "id": 200,
+        "name": "The maximum height of a wall"
+    },
+    {
+        "id": 201,
+        "name": "the sunlight to any secluded private open space"
+    },
+    {
+        "id": 202,
+        "name": "the floor level of the room"
+    },
+    {
+        "id": 203,
+        "name": "obscure glazing"
+    },
+    {
+        "id": 204,
+        "name": "a horizontal distance"
+    },
+    {
+        "id": 205,
+        "name": "the side or rear of the building"
+    },
+    {
+        "id": 206,
+        "name": "a roof top area"
+    },
+    {
+        "id": 207,
+        "name": "Fences setbac"
+    },
+    {
+        "id": 208,
+        "name": "A fence"
+    },
+    {
+        "id": 209,
+        "name": "the remaining length of the fence"
+    },
+    {
+        "id": 210,
+        "name": "an open style car parking structure"
+    },
+    {
+        "id": 211,
+        "name": "an area roofed"
+    },
+    {
+        "id": 212,
+        "name": "other street (not lane)"
+    },
+    {
+        "id": 213,
+        "name": "the setback distance"
+    },
+    {
+        "id": 214,
+        "name": "a porch"
+    },
+    {
+        "id": 215,
+        "name": "Fences and solar"
+    },
+    {
+        "id": 216,
+        "name": "A fence"
+    },
+    {
+        "id": 217,
+        "name": "the remaining length of the fence"
+    },
+    {
+        "id": 218,
+        "name": "3m of the street alignment"
+    },
+    {
+        "id": 219,
+        "name": "A fence"
+    },
+    {
+        "id": 220,
+        "name": "the sunlight to any secluded private open space"
+    },
+    {
+        "id": 221,
+        "name": "a horizontal distance"
+    },
+    {
+        "id": 222,
+        "name": "a window facing a habitable room window"
+    },
+    {
+        "id": 223,
+        "name": "an allotment has three or more bedrooms"
+    },
+    {
+        "id": 224,
+        "name": "a balcony or rooftop area"
+    },
+    {
+        "id": 225,
+        "name": "A front fence"
+    },
+    {
+        "id": 226,
+        "name": "height"
+    },
+    {
+        "id": 227,
+        "name": "A fence"
+    },
+    {
+        "id": 228,
+        "name": "bedroom"
+    },
+    {
+        "id": 229,
+        "name": "an open style car parking structure"
+    },
+    {
+        "id": 230,
+        "name": "required habitable room window"
+    },
+    {
+        "id": 231,
+        "name": "simultaneously approved"
+    },
+    {
+        "id": 232,
+        "name": "the setback distance"
+    },
+    {
+        "id": 233,
+        "name": "verandah or pergola"
+    },
+    {
+        "id": 234,
+        "name": "a fence"
+    },
+    {
+        "id": 235,
+        "name": "exceed 2.0 metres in height"
+    },
+    {
+        "id": 236,
+        "name": "A fence on a rear street alignment"
+    },
+    {
+        "id": 237,
+        "name": "front fence"
+    },
+    {
+        "id": 238,
+        "name": "the part of the fence"
+    },
+    {
+        "id": 239,
+        "name": "projects"
+    },
+    {
+        "id": 240,
+        "name": "A front fence"
+    },
+    {
+        "id": 241,
+        "name": "a side or rear boundary"
+    },
+    {
+        "id": 242,
+        "name": "A fence"
+    },
+    {
+        "id": 243,
+        "name": "carport"
+    },
+    {
+        "id": 244,
+        "name": "an open style car parking structure"
+    },
+    {
+        "id": 245,
+        "name": "required habitable room window"
+    },
+    {
+        "id": 246,
+        "name": "simultaneously approved"
+    },
+    {
+        "id": 247,
+        "name": "the setback distance"
+    },
+    {
+        "id": 248,
+        "name": "a height"
+    },
+    {
+        "id": 249,
+        "name": "A fence"
+    },
+    {
+        "id": 250,
+        "name": "A fence adjacent"
+    },
+    {
+        "id": 251,
+        "name": "Fences setback"
+    },
+    {
+        "id": 252,
+        "name": "rear boundary"
+    },
+    {
+        "id": 253,
+        "name": "a width"
+    },
+    {
+        "id": 254,
+        "name": "a width"
+    },
+    {
+        "id": 255,
+        "name": "projects"
+    },
+    {
+        "id": 256,
+        "name": "project"
+    },
+    {
+        "id": 257,
+        "name": "fascia and gutters"
+    },
+    {
+        "id": 258,
+        "name": "fascia and gutters"
+    },
+    {
+        "id": 259,
+        "name": "3.5 metres wide"
+    },
+    {
+        "id": 260,
+        "name": "the part of the fence between 2.0 metres and 2.5 metres"
+    },
+    {
+        "id": 261,
+        "name": "projects"
+    },
+    {
+        "id": 262,
+        "name": "projects"
+    },
+    {
+        "id": 263,
+        "name": "project"
+    },
+    {
+        "id": 264,
+        "name": "the building"
+    },
+    {
+        "id": 265,
+        "name": "fascia and gutters"
+    },
+    {
+        "id": 266,
+        "name": "at least 6.0 metres long"
+    },
+    {
+        "id": 267,
+        "name": "the second space"
+    },
+    {
+        "id": 268,
+        "name": "the width of the door(s) or opening(s)"
+    },
+    {
+        "id": 269,
+        "name": "a minimum dimension"
+    },
+    {
+        "id": 270,
+        "name": "a minimum dimension"
+    },
+    {
+        "id": 271,
+        "name": "light court"
+    },
+    {
+        "id": 272,
+        "name": "the window"
+    },
+    {
+        "id": 273,
+        "name": "a horizontal distance of 4.5 metres"
+    },
+    {
+        "id": 274,
+        "name": "the setback distance"
+    },
+    {
+        "id": 275,
+        "name": "he floor level of the room"
+    },
+    {
+        "id": 276,
+        "name": "a carport"
+    },
+    {
+        "id": 277,
+        "name": "less than 6 square metres"
+    },
+    {
+        "id": 278,
+        "name": "a floor level more than 800mm"
+    },
+    {
+        "id": 279,
+        "name": "A fence"
+    },
+    {
+        "id": 280,
+        "name": "projects"
+    },
+    {
+        "id": 281,
+        "name": "projects"
+    },
+    {
+        "id": 282,
+        "name": "the building height"
+    },
+    {
+        "id": 283,
+        "name": "fascia and gutters"
+    },
+    {
+        "id": 284,
+        "name": "the allotment has a frontage width"
+    },
+    {
+        "id": 285,
+        "name": "the second space"
+    },
+    {
+        "id": 286,
+        "name": "5·5 metres in width"
+    },
+    {
+        "id": 287,
+        "name": "at least 24 square metres of private open space"
+    },
+    {
+        "id": 288,
+        "name": "a minimum dimension of 3.0 metres"
+    },
+    {
+        "id": 289,
+        "name": "light court"
+    },
+    {
+        "id": 290,
+        "name": "a window"
+    },
+    {
+        "id": 291,
+        "name": "not more than 500mm"
+    },
+    {
+        "id": 292,
+        "name": "the setback distance"
+    },
+    {
+        "id": 293,
+        "name": "The maximum height of a wall"
+    },
+    {
+        "id": 294,
+        "name": "the simultaneously approved building or carport"
+    },
+    {
+        "id": 295,
+        "name": "a dwelling"
+    },
+    {
+        "id": 296,
+        "name": "within 1.0 metre of a side"
+    },
+    {
+        "id": 297,
+        "name": "no less than 5.0 metres from the front street alignment"
+    },
+    {
+        "id": 298,
+        "name": "less than 800mm in height"
+    },
+    {
+        "id": 299,
+        "name": "at least 800mm"
+    },
+    {
+        "id": 300,
+        "name": "car parking space"
+    },
+    {
+        "id": 301,
+        "name": "the area of the door(s) or opening(s)"
+    },
+    {
+        "id": 302,
+        "name": "each parcel"
+    },
+    {
+        "id": 303,
+        "name": "at least 12 square metres"
+    },
+    {
+        "id": 304,
+        "name": "a sill height"
+    },
+    {
+        "id": 305,
+        "name": "a height"
+    },
+    {
+        "id": 306,
+        "name": "the setback distance"
+    },
+    {
+        "id": 307,
+        "name": "decks"
+    },
+    {
+        "id": 308,
+        "name": "a carport"
+    },
+    {
+        "id": 309,
+        "name": "not exceed a total of 2.0 metres"
+    },
+    {
+        "id": 310,
+        "name": "a dwelling"
+    },
+    {
+        "id": 311,
+        "name": "an area of more than 2 square metres"
+    },
+    {
+        "id": 312,
+        "name": "no more than 1.5 metres"
+    },
+    {
+        "id": 313,
+        "name": "no more than 1.5 metres eaves, fascia and gutters"
+    },
+    {
+        "id": 314,
+        "name": "not exceed 80 percent of the frontage"
+    },
+    {
+        "id": 315,
+        "name": "does not exceed 80 percent of the frontage"
+    },
+    {
+        "id": 316,
+        "name": "not more than 1.0 metre forward of the front wall"
+    },
+    {
+        "id": 317,
+        "name": "at least 800mm"
+    },
+    {
+        "id": 318,
+        "name": "no more than 3 storeys"
+    },
+    {
+        "id": 319,
+        "name": "at least 6.0 metres long"
+    },
+    {
+        "id": 320,
+        "name": "3.1 metres"
+    },
+    {
+        "id": 321,
+        "name": "at least 300mm"
+    },
+    {
+        "id": 322,
+        "name": "no more than 1.5 metres"
+    },
+    {
+        "id": 323,
+        "name": "not exceeding 600mm in total width"
+    },
+    {
+        "id": 324,
+        "name": "3.5 metres wide"
+    },
+    {
+        "id": 325,
+        "name": "at least 4·9 metres long"
+    },
+    {
+        "id": 326,
+        "name": "2.1 metres"
+    },
+    {
+        "id": 327,
+        "name": "not exceed 50 per cent of the width"
+    },
+    {
+        "id": 328,
+        "name": "not more than 500mm"
+    },
+    {
+        "id": 329,
+        "name": "within 0.2 metres of a side"
+    },
+    {
+        "id": 330,
+        "name": "less than 6 square metres"
+    },
+    {
+        "id": 331,
+        "name": "an angle less than 45°"
+    },
+    {
+        "id": 332,
+        "name": "below 1·7 metres"
+    },
+    {
+        "id": 333,
+        "name": "4.5 metres"
+    },
+    {
+        "id": 334,
+        "name": "10 percent of the total floor area"
+    },
+    {
+        "id": 335,
+        "name": "a minimum dimension of 2.0 metres"
+    },
+    {
+        "id": 336,
+        "name": "more than 150mm"
+    },
+    {
+        "id": 337,
+        "name": "not exceed 2.0 metres in height"
+    },
+    {
+        "id": 338,
+        "name": "at least 15 per cent transparent"
+    },
+    {
+        "id": 339,
+        "name": "open for at least 1/3 of its perimeter"
+    },
+    {
+        "id": 340,
+        "name": "3·5 metres wide"
+    },
+    {
+        "id": 341,
+        "name": "car parking"
+    },
+    {
+        "id": 342,
+        "name": "not exceed 30 percent of the area"
+    },
+    {
+        "id": 343,
+        "name": "not more than 600mm"
+    },
+    {
+        "id": 344,
+        "name": "not exceed a total of 2.0 metres"
+    },
+    {
+        "id": 345,
+        "name": "a minimum dimension of 2.0 metres"
+    },
+    {
+        "id": 346,
+        "name": "4.5 metres"
+    },
+    {
+        "id": 347,
+        "name": "a window within 1·5 m from the edge of the other habitable room window"
+    },
+    {
+        "id": 348,
+        "name": "at least 24 square metres of private open space"
+    },
+    {
+        "id": 349,
+        "name": "a minimum dimension of 3.0 metres"
+    },
+    {
+        "id": 350,
+        "name": "3m of the street alignment"
+    },
+    {
+        "id": 351,
+        "name": "at least 25 per cent transparent"
+    },
+    {
+        "id": 352,
+        "name": "no more than 65 percent"
+    },
+    {
+        "id": 353,
+        "name": "enclosed on all sides"
+    },
+    {
+        "id": 354,
+        "name": "2 or more of its side open"
+    },
+    {
+        "id": 355,
+        "name": "the minimum amount of light"
+    },
+    {
+        "id": 356,
+        "name": "have obtained their building permits on the same day"
+    },
+    {
+        "id": 357,
+        "name": "fascia and gutters"
+    },
+    {
+        "id": 358,
+        "name": "at least 2 sides"
+    },
+    {
+        "id": 359,
+        "name": "1.0 metre above footpath level"
+    },
+    {
+        "id": 360,
+        "name": "does not exceed 3.6 metres"
+    },
+    {
+        "id": 361,
+        "name": "more than 2.5m above natural ground level"
+    },
+    {
+        "id": 362,
+        "name": "at least 1.7 metres"
+    },
+    {
+        "id": 363,
+        "name": "at least 1.7m"
+    },
+    {
+        "id": 364,
+        "name": "at least 12 square metres of private open space"
+    },
+    {
+        "id": 365,
+        "name": "at least 6 square metres"
+    },
+    {
+        "id": 366,
+        "name": "at least 15 percent transparent above 700mm height"
+    },
+    {
+        "id": 367,
+        "name": "within 150mm"
+    },
+    {
+        "id": 368,
+        "name": "the front wall of a dwelling"
+    },
+    {
+        "id": 369,
+        "name": "an open style car parking structure"
+    },
+    {
+        "id": 370,
+        "name": "a side of a carport"
+    },
+    {
+        "id": 371,
+        "name": "ventilation to a habitable room"
+    },
+    {
+        "id": 372,
+        "name": "an application for building permits"
+    },
+    {
+        "id": 373,
+        "name": "decks, steps or landings less than 800mm in height"
+    },
+    {
+        "id": 374,
+        "name": "north-facing habitable room windows"
+    },
+    {
+        "id": 375,
+        "name": "no more than 65 per cent of its length"
+    },
+    {
+        "id": 376,
+        "name": "within 1.0 metre of a street alignment"
+    },
+    {
+        "id": 377,
+        "name": "more than 150mm from side"
+    },
+    {
+        "id": 378,
+        "name": "at least 25 per cent transparent"
+    },
+    {
+        "id": 379,
+        "name": "at least 800mm"
+    },
+    {
+        "id": 380,
+        "name": "a material that transmits at least 90 per cent of light"
+    },
+    {
+        "id": 381,
+        "name": "not the front street"
+    },
+    {
+        "id": 382,
+        "name": "no more than 1.5 metres"
+    },
+    {
+        "id": 383,
+        "name": "at least 2 sides"
+    },
+    {
+        "id": 384,
+        "name": "within 3.0 metres of a point of intersection"
+    },
+    {
+        "id": 385,
+        "name": "within 1.0 metre of a side street alignment"
+    },
+    {
+        "id": 386,
+        "name": "at least 15 per cent transparent"
+    },
+    {
+        "id": 387,
+        "name": "not exceed the maximum height"
+    },
+    {
+        "id": 388,
+        "name": "more than 150mm from a side"
+    },
+    {
+        "id": 389,
+        "name": "at least 25 per cent transparent"
+    },
+    {
+        "id": 390,
+        "name": "no more than 1.5 metres forward of the front wall"
+    },
+    {
+        "id": 391,
+        "name": "no more than 1.0 metre forward of the front wall"
+    },
+    {
+        "id": 392,
+        "name": "not more than 1.0 metre forward of the front wall"
+    },
+    {
+        "id": 393,
+        "name": "not exceeding 600mm in total width"
+    },
+    {
+        "id": 394,
+        "name": "unroofed patios"
+    },
+    {
+        "id": 395,
+        "name": "car parking space"
+    },
+    {
+        "id": 396,
+        "name": "2.1 metres"
+    },
+    {
+        "id": 397,
+        "name": "not exceed 30 per cent of the area"
+    },
+    {
+        "id": 398,
+        "name": "at least 12 square metres"
+    },
+    {
+        "id": 399,
+        "name": "two or less bedrooms"
+    },
+    {
+        "id": 400,
+        "name": "not exceed 2.0 metres in height"
+    },
+    {
+        "id": 401,
+        "name": "at least 15 per cent transparent above 700mm height"
+    },
+    {
+        "id": 402,
+        "name": "not exceed 2.5 metres in height"
+    },
+    {
+        "id": 403,
+        "name": "not exceed 80 per cent of the frontage"
+    },
+    {
+        "id": 404,
+        "name": "not exceed 80 per cent of the frontage"
+    },
+    {
+        "id": 405,
+        "name": "at least 800mm"
+    },
+    {
+        "id": 406,
+        "name": "at least 300mm"
+    },
+    {
+        "id": 407,
+        "name": "no more than 3 storeys at any point"
+    },
+    {
+        "id": 408,
+        "name": "unroofed terraces"
+    },
+    {
+        "id": 409,
+        "name": "car parking space"
+    },
+    {
+        "id": 410,
+        "name": "2·6 metres wide"
+    },
+    {
+        "id": 411,
+        "name": "not exceed 50 per cent of the width"
+    },
+    {
+        "id": 412,
+        "name": "3.0 metres"
+    },
+    {
+        "id": 413,
+        "name": "2.0 metres"
+    },
+    {
+        "id": 414,
+        "name": "a minimum dimension of 1.0 metre"
+    },
+    {
+        "id": 415,
+        "name": "within 1·5 m from the edge"
+    },
+    {
+        "id": 416,
+        "name": "the setback distance"
+    },
+    {
+        "id": 417,
+        "name": "less than 1.0 metre high"
+    },
+    {
+        "id": 418,
+        "name": "within 0.2 metres of a side or rear boundary"
+    },
+    {
+        "id": 419,
+        "name": "not exceed 3.6 metres"
+    },
+    {
+        "id": 420,
+        "name": "at least 300mm"
+    },
+    {
+        "id": 421,
+        "name": "no more than 1.5 metres forward of the front wall"
+    },
+    {
+        "id": 422,
+        "name": "not exceed 11 metres"
+    },
+    {
+        "id": 423,
+        "name": "unroofed swimming pools"
+    },
+    {
+        "id": 424,
+        "name": "less than 6.0m"
+    },
+    {
+        "id": 425,
+        "name": "at least 4·9 metres long"
+    },
+    {
+        "id": 426,
+        "name": "the double space"
+    },
+    {
+        "id": 427,
+        "name": "a dwelling on an allotment"
+    },
+    {
+        "id": 428,
+        "name": "parcel"
+    },
+    {
+        "id": 429,
+        "name": "a minimum area of 3 square metres"
+    },
+    {
+        "id": 430,
+        "name": "below 1·7 metres above floor level"
+    },
+    {
+        "id": 431,
+        "name": "dwelling"
+    },
+    {
+        "id": 432,
+        "name": "not more than 2 square metres"
+    },
+    {
+        "id": 433,
+        "name": "more than 2.5m above natural ground level"
+    },
+    {
+        "id": 434,
+        "name": "not exceed 3.6 metres"
+    },
+    {
+        "id": 435,
+        "name": "an existing building"
+    },
+    {
+        "id": 440,
+        "name": "at least 1.7 metres above floor level"
+    },
+    {
+        "id": 441,
+        "name": "least 1.7m above the floor level"
+    },
+    {
+        "id": 442,
+        "name": "not more than 600mm"
+    },
+    {
+        "id": 443,
+        "name": "less than 800mm"
+    },
+    {
+        "id": 444,
+        "name": "within 1.0m of a side or rear boundary"
+    },
+    {
+        "id": 445,
+        "name": "the existing or simultaneously approved building"
+    },
+    {
+        "id": 446,
+        "name": "no vehicle access at a street frontage"
+    },
+    {
+        "id": 460,
+        "name": "via a rear laneway"
+    }
+]
