@@ -11,4 +11,4 @@ Source Code for paper: BEKG: A Built Environment Knowledge Graph
 * #### Results [Google Drive](https://drive.google.com/drive/folders/1qBwL9cEyn-brle3Fasa5JoS2ZLsxswKP?usp=sharing)
 ### Data in Relation Extraction task:
 * #### Dataset in folder [Data/Dataset/Relation Extraction](https://github.com/HKUST-KnowComp/BEKG/tree/main/Data/Dataset/Relation%20Extraction)
-* #### Results in folder [Data/Extraction/Relation Extraction]
+* #### Results in folder [Data/Extraction](https://github.com/HKUST-KnowComp/BEKG/tree/main/Data/Extraction)
