@@ -2,12 +2,12 @@
 #### Source Code for paper: BEKG: A Built Environment Knowledge Graph
 ## Table of Contents
 
-- [Background](#background)
+- [Background](#Background)
 - [Code and Model](https://github.com/HKUST-KnowComp/BEKG/blob/main/README.md#code--model)
 - [Data](#Data)
-- [Contributing](#contributing)
-- [License](#license)
-
+- [Contributing](#Contributing)
+- [License](#License)
+## Background
 ## Code & Model
 ### BERT-Pair
 * #### Codes in folder [Codes/BERT-Pair](https://github.com/HKUST-KnowComp/BEKG/tree/main/Codes/BERT-Pair)
@@ -27,3 +27,5 @@
 ### Data in Relation Extraction task:
 * #### Dataset in folder [Data/Dataset/Relation Extraction](https://github.com/HKUST-KnowComp/BEKG/tree/main/Data/Dataset/Relation%20Extraction)
 * #### Results in folder [Data/Extraction](https://github.com/HKUST-KnowComp/BEKG/tree/main/Data/Extraction)
+## Contributing
+## License
