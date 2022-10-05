@@ -15,7 +15,7 @@ Source Code for paper: BEKG: A Built Environment Knowledge Graph
 * #### Annotation for Human Checkout [Google Drive](https://drive.google.com/drive/folders/1VAbxeRk4zJ5-xVFAogDWgf5got1VqFOY?usp=sharing)
 ### Data in Named Entity Recognition task:
 * #### Dataset in folder [Data/Dataset/Named Entity Recognition](https://github.com/HKUST-KnowComp/BEKG/tree/main/Data/Dataset/Named%20Entity%20Recognition)
-* #### Results [Google Drive](https://drive.google.com/drive/folders/1qBwL9cEyn-brle3Fasa5JoS2ZLsxswKP?usp=sharing)
+* #### Results [Google Drive](https://drive.google.com/drive/folders/1PxNauFn-xeTVMYc8PCDucZMiPznmBFXe?usp=sharing)
 ### Data in Relation Extraction task:
 * #### Dataset in folder [Data/Dataset/Relation Extraction](https://github.com/HKUST-KnowComp/BEKG/tree/main/Data/Dataset/Relation%20Extraction)
 * #### Results in folder [Data/Extraction](https://github.com/HKUST-KnowComp/BEKG/tree/main/Data/Extraction)
