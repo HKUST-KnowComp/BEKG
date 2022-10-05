@@ -1,6 +1,8 @@
 # BEKG
+
 <img width="427" alt="image" src="https://user-images.githubusercontent.com/60414736/194032349-21bd74a1-7218-4ed7-a58f-676cfd3bec48.png">
-Source Code for paper: BEKG: A Built Environment Knowledge Graph
+
+#### Source Code for paper: BEKG: A Built Environment Knowledge Graph
 ## Code & Model
 ### BERT-Pair
 * #### Codes in folder [Codes/BERT-Pair](https://github.com/HKUST-KnowComp/BEKG/tree/main/Codes/BERT-Pair)
