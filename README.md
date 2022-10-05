@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Background](#background)
-- [Code and Model](#Code & Model)
+- [[Code and Model](#Code & Model)](https://github.com/HKUST-KnowComp/BEKG/blob/main/README.md#code--model)
 - [Data](#Data)
 - [Contributing](#contributing)
 - [License](#license)
