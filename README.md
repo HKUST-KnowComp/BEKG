@@ -1,5 +1,12 @@
 # BEKG
 Source Code for paper: BEKG: A Built Environment Knowledge Graph
+## CODES AND MODEL
+### BERT-Pair
+* #### Codes
+* #### Checkpoint 
+### BERT-CRF
+* #### Codes
+* #### Checkpoint 
 ## DATA
 ### Raw Data:
 * #### Abstracts Obtained from Microsoft Academic Graph [[Google Drive](https://drive.google.com/file/d/19RG_geazLt9be3zU2knRkLQPfxZSkf4X/view?usp=sharing) , [Baidu Drive](https://pan.baidu.com/s/1ChABm0aI38vYN69jGfARZg) (code: 03df)]
