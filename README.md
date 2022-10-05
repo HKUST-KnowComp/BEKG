@@ -1,6 +1,6 @@
 # BEKG
 Source Code for paper: BEKG: A Built Environment Knowledge Graph
-## CODES AND MODEL
+## CODE & MODEL
 ### BERT-Pair
 * #### Codes
 * #### Checkpoint 
