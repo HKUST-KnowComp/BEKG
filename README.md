@@ -2,10 +2,10 @@
 Source Code for paper: BEKG: A Built Environment Knowledge Graph
 ## Code & Model
 ### BERT-Pair
-* #### Codes
+* #### Codes in folder [Codes/BERT-Pair](https://github.com/HKUST-KnowComp/BEKG/tree/main/Codes/BERT-Pair)
 * #### Checkpoint 
 ### BERT-CRF
-* #### Codes
+* #### Codes in folder [Codes/BERT-CRF](https://github.com/HKUST-KnowComp/BEKG/tree/main/Codes/BERT-CRF)
 * #### Checkpoint 
 ## Data
 ### Raw Data:
