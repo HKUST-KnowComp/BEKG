@@ -1,5 +1,12 @@
 # BEKG
 #### Source Code for paper: BEKG: A Built Environment Knowledge Graph
+## Table of Contents
+
+- [Background](#background)
+- [Code & Model](#Code & Model)
+- [Data](#Data)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Code & Model
 ### BERT-Pair
