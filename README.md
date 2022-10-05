@@ -8,6 +8,7 @@
 - [Contributing](#Contributing)
 - [License](#License)
 ## Background
+Practices in the built environment have become more digitalized with the rapid development of modern design and construction technologies. However, the requirement of practitioners or scholars to gather complicated professional knowledge in the built environment has not been satisfied yet. In this paper, more than 80,000 paper abstracts in the built environment field were obtained to build a knowledge graph, a knowledge base storing entities and their connective relations in a graph-structured data model. To ensure the retrieval accuracy of the entities and relations in the knowledge graph, two well-annotated datasets have been created, containing 2,000 instances and 1,450 instances each in 29 relations for the named entity recognition task and relation extraction task respectively. These two tasks were solved by two BERT-based models trained on the proposed dataset. Both models attained an accuracy above 85% on these two tasks. More than 200,000 high-quality relations and entities were obtained using these models to extract all abstract data. Finally, this knowledge graph is presented as a self-developed visualization system to reveal relations between various entities in the domain.
 ## Code & Model
 ### BERT-Pair
 * #### Codes in folder [Codes/BERT-Pair](https://github.com/HKUST-KnowComp/BEKG/tree/main/Codes/BERT-Pair)
