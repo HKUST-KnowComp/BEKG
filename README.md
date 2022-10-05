@@ -1,14 +1,13 @@
 # BEKG
 #### Source Code for paper: BEKG: A Built Environment Knowledge Graph
-<img width="427" alt="image" src="https://user-images.githubusercontent.com/60414736/194032349-21bd74a1-7218-4ed7-a58f-676cfd3bec48.png">
 
 ## Code & Model
 ### BERT-Pair
 * #### Codes in folder [Codes/BERT-Pair](https://github.com/HKUST-KnowComp/BEKG/tree/main/Codes/BERT-Pair)
-* #### Checkpoint 
+* #### Checkpoint [Google Drive](https://drive.google.com/file/d/1R8GY4Pv_4ikfcCWKXVAKg97frN1G_oMI/view?usp=sharing)
 ### BERT-CRF
 * #### Codes in folder [Codes/BERT-CRF](https://github.com/HKUST-KnowComp/BEKG/tree/main/Codes/BERT-CRF)
-* #### Checkpoint 
+* #### Checkpoint [Google Drive]()
 ## Data
 ### Raw Data:
 * #### Abstracts Obtained from Microsoft Academic Graph [[Google Drive](https://drive.google.com/file/d/19RG_geazLt9be3zU2knRkLQPfxZSkf4X/view?usp=sharing) , [Baidu Drive](https://pan.baidu.com/s/1ChABm0aI38vYN69jGfARZg) (code: 03df)]
