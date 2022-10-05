@@ -7,7 +7,7 @@
 * #### Checkpoint [Google Drive](https://drive.google.com/file/d/1R8GY4Pv_4ikfcCWKXVAKg97frN1G_oMI/view?usp=sharing)
 ### BERT-CRF
 * #### Codes in folder [Codes/BERT-CRF](https://github.com/HKUST-KnowComp/BEKG/tree/main/Codes/BERT-CRF)
-* #### Checkpoint [Google Drive]()
+* #### Checkpoint [Google Drive](https://drive.google.com/file/d/1jxsxW9e_pRG3bbp-Dsd_IWbeQPq4oZLT/view?usp=sharing)
 ## Data
 ### Raw Data:
 * #### Abstracts Obtained from Microsoft Academic Graph [[Google Drive](https://drive.google.com/file/d/19RG_geazLt9be3zU2knRkLQPfxZSkf4X/view?usp=sharing) , [Baidu Drive](https://pan.baidu.com/s/1ChABm0aI38vYN69jGfARZg) (code: 03df)]
