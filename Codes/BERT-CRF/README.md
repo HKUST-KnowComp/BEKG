@@ -7,5 +7,5 @@ python bert_crf.py --mode train
 ```
 ## Test
 ```
-python bert_crf.py --mode test <br>
+python bert_crf.py --mode test
 ```
