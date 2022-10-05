@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Background](#background)
-- [Code & Model](#Code & Model)
+- [Code and Model](#Code & Model)
 - [Data](#Data)
 - [Contributing](#contributing)
 - [License](#license)
